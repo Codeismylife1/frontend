@@ -1243,7 +1243,7 @@ body .theme-button-one:hover {background:#0072CC; }
 .short-banner .overlay {
   background: rgba(255,255,255,0.4);
   padding: 52px 0;
-  text-align: center;
+text-align: center;
 }
 .short-banner .overlay h2 {
   font-size: 40px;
@@ -2085,4 +2085,75 @@ height:400px;
   text-overflow: ellipsis;
 white-space: nowrap;
 overflow: hidden;
+}
+
+.list-item-container {
+  display: flex;
+  align-items: center;  
+  padding: 6px;
+}
+
+.item-content {
+  flex: 1;
+  background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 7px #d0dff7;
+    display: flex;
+    margin-bottom: 10px;
+    padding: 15px;
+    position: relative;
+    transition: all .3s ease-in-out;
+    width: 100%;
+}
+
+.item-title {
+  /* display: bor; */
+  vertical-align: middle;
+  font-size: 18px;
+  font-weight: 500;
+}
+.ant-badge-status-dot {
+  background-color: #52c41a;
+  box-sizing: border-box;
+  border-radius: 50%;
+  display: inline-block;
+  height: 6px;
+  position: relative;
+  margin-right: 5px;
+  top: -1px;
+  vertical-align: middle;
+  width: 6px;
+}
+.item-description {
+  font-size: 14px;
+  color: #999;
+}
+.badge-container {
+  display: inline-block;
+  position: relative;
+}
+
+.badge-content {
+  display: flex;
+  align-items: center;
+}
+
+.badge-dot {
+  position: absolute;
+  top: 50%;
+  right: -6px;
+  transform: translate(50%, -50%);
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #1890ff;
+}
+
+
+.title-style{
+  font-size: 16px;
+    font-weight: 600;
+    padding: 10px 10px ;
+    text-transform: uppercase;
+    color: #002468;
 }
