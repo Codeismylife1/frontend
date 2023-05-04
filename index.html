@@ -15,18 +15,13 @@
 		<meta name="apple-mobile-web-app-status-bar-style" content="#061948">
 		<title>BAYNHONGOR</title>
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+		<link rel="icon" type="image/png" sizes="56x56" href="">
 		<!-- Main style sheet -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<!-- responsive style sheet -->
 		<link rel="stylesheet" type="text/css" href="css/responsive.css">
 
-		<!-- Fix Internet Explorer ______________________________________-->
-		<!--[if lt IE 9]>
-			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-			<script src="vendor/html5shiv.js"></script>
-			<script src="vendor/respond.js"></script>
-		<![endif]-->	
+	
 	</head>
 
 	<body>
@@ -43,103 +38,84 @@
 
 			<!-- 
 			=============================================
-				Theme Header One
+				Theme Header Two
 			============================================== 
 			-->
-			<header class="header-one">
+			<header class="header-two">
 				<div class="top-header">
-					<div class="container clearfix">
-						<div class="logo float-left"><a href="index.html"><img src="images/logo/logo.png" alt=""></a></div>
-						<div class="address-wrapper float-right">
-							<ul>
-								<li class="address">
-									<i class="icon flaticon-placeholder"></i>
-									<h6>Хаяг:</h6>
-									<p>Баянхонгор аймаг, .</p>
-								</li>
-								<li class="address">
-									<i class="icon flaticon-multimedia"></i>
-									<h6>Мэйл хаяг:</h6>
-									<p>info@bayankhongor.gov.mn</p>
-								</li>
-								<li class="quotes"><a href="#">Санал хүсэлт</a></li>
-							</ul>
-						</div> <!-- /.address-wrapper -->
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6 col-sm-8 col-12">
+								<ul class="left-widget">
+									<li>БАЯНХОНГОР АЙМАГ </li>
+									<li>
+										<div id="polyglotLanguageSwitcher">
+											<form action="#">
+												<select id="polyglot-language-options">
+													<option id="en" value="en" selected>English</option>
+													<option id="fr" value="fr">French</option>
+													<option id="de" value="de">German</option>
+													<option id="it" value="it">Italian</option>
+													<option id="es" value="es">Spanish</option>
+												</select>
+											</form>
+										</div> <!-- End #polyglotLanguageSwitcher -->
+									</li>
+								</ul>
+							</div>
+							<div class="col-md-6 col-sm-4 col-12">
+								<ul class="social-icon">
+									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+									<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+									<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+								</ul>
+							</div>
+						</div> <!-- /.row -->
 					</div> <!-- /.container -->
 				</div> <!-- /.top-header -->
 
 				<div class="theme-menu-wrapper">
 					<div class="container">
 						<div class="bg-wrapper clearfix">
+							<div class="logo float-left"><a href="index.html"><img src="images/logo/logo.png" alt=""></a></div>
 							<!-- ============== Menu Warpper ================ -->
 					   		<div class="menu-wrapper float-left">
 					   			<nav id="mega-menu-holder" class="clearfix">
 								   <ul class="clearfix">
-									    <li class="active"><a href="#">НҮҮР</a>
-									    	<ul class="dropdown">
-									        	<li><a href="index.html">Home version one</a></li>
-									        	<li><a href="index-2.html">Home version two</a></li>
-									      </ul>
-									    </li>
-									    <li><a href="#">ҮЙЛЧИЛГЭЭНҮҮД</a>
-									    	<ul class="dropdown">
-									    		<li><a href="about.html">About us</a></li>
-									    		<li><a href="team.html">Our team</a></li>
-									    		<li><a href="faq.html">Faq's</a></li>
-									    		<li><a href="404.html">404</a></li>
-									    		<li><a href="shop.html">Shop</a></li>
-									    		<li><a href="shop-details.html">Shop details</a></li>
-									            <li><a href="#">Third Level menu</a>
-									    			<ul>
-									    				<li><a href="#">Demo one</a></li>
-									    				<li><a href="#">Demo two</a></li>
-									    			</ul>
-									    		</li>
-									       </ul>
-									    </li>
-									    <!-- <li><a href="#">Service</a>
-									    	<ul class="dropdown">
-									        	<li><a href="service.html">Service Version one</a></li>
-									        	<li><a href="service-v2.html">Service version two</a></li>
-									        	<li><a href="service-details.html">Service Details</a></li>
-									       </ul>
-									    </li>
-									    <li><a href="#">Portfolio</a>
-									    	<ul class="dropdown">
-									        	<li><a href="project.html">project</a></li>
-									        	<li><a href="project-details.html">Project details</a></li>
-									       </ul>
-									    </li>
-									    <li><a href="#">Blog</a>
-									    	<ul class="dropdown">
-									        	<li><a href="blog.html">Blog List</a></li>
-									        	<li><a href="blog-grid.html">Blog Grid</a></li>
-									        	<li><a href="blog-details.html">Blog details</a></li>
-									       </ul>
-									    </li> -->
-									    <li><a href="contact.html">Холбоо барих</a></li>
+									<li class="active"><a href="index.html">НҮҮР</a>
+									</li>
+
+									<!-- Nav service   -->
+									<li><a href="#">ҮЙЛЧИЛГЭЭНҮҮД</a>
+										<ul class="dropdown">
+											<li><a href="about.html">About us</a></li>
+											<li><a href="team.html">Our team</a></li>
+											<li><a href="faq.html">Faq's</a></li>
+											<li><a href="404.html">404</a></li>
+											<li><a href="shop.html">Shop</a></li>
+											<li><a href="shop-details.html">Shop details</a></li>
+											<li><a href="#">Third Level menu</a>
+												<ul>
+													<li><a href="#">Demo one</a></li>
+													<li><a href="#">Demo two</a></li>
+												</ul>
+											</li>
+									   </ul>
+									</li>
+									   
 								   </ul>
 								</nav> <!-- /#mega-menu-holder -->
 					   		</div> <!-- /.menu-wrapper -->
-
 					   		<div class="right-widget float-right">
 					   			<ul>
-					   				<li class="social-icon">
-					   					<ul>
-											<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-										</ul>
-					   				</li>
-					   				<li class="cart-icon">
-					   					<a href="#"><i class="flaticon-tool"></i> <span>2</span></a>
-					   				</li>
+					   				
 					   				<li class="search-option">
 					   					<div class="dropdown">
 					   						<button type="button" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search" aria-hidden="true"></i></button>
 											<form action="#" class="dropdown-menu">
-												<input type="text" Placeholder="Enter Your Search">
+												<input type="text" Placeholder="Хайх">
 												<button><i class="fa fa-search"></i></button>
 											</form>
 					   					</div>
@@ -149,7 +125,7 @@
 						</div> <!-- /.bg-wrapper -->
 					</div> <!-- /.container -->
 				</div> <!-- /.theme-menu-wrapper -->
-			</header> <!-- /.header-one -->
+			</header> <!-- /.header-two -->
 
 			
 			<!-- 
@@ -158,30 +134,30 @@
 			============================================== 
 			-->
 			<div id="theme-main-banner" class="banner-one">
-				<div data-src="images/home/slide-1.jpg">
+				<div data-src="images/home/background-slide1.jpg">
 					<div class="camera_caption">
 						<div class="container">
-							<p class="wow fadeInUp animated">The government they survive artical of fortune</p>
-							<h1 class="wow fadeInUp animated" data-wow-delay="0.2s">We IMPROVE YOUR <br>SALES EFFICIENCY</h1>
-							<a href="contact.html" class="theme-button-one wow fadeInUp animated" data-wow-delay="0.39s">CONTACT US</a>
+							<p class="wow fadeInUp animated">БАЯНХОНГОР АЙМАГТ ТАВТАЙ МОРИЛНО УУ</p>
+							<h1 class="wow fadeInUp animated" data-wow-delay="0.2s">ЧАНАРТАЙ ЗАХ ЗЭЭЛ <br> ТУРШЛАГА</h1>
+							<a href="about.html" class="theme-button-one wow fadeInUp animated" data-wow-delay="0.39s">БИДНИЙ ТУХАЙ</a>
 						</div> <!-- /.container -->
 					</div> <!-- /.camera_caption -->
 				</div>
-				<div data-src="images/home/slide-2.jpg">
+				<div data-src="images/home/background-slide1.jpg">
 					<div class="camera_caption">
 						<div class="container">
-							<p class="wow fadeInUp animated">The government they survive artical of fortune</p>
-							<h1 class="wow fadeInUp animated" data-wow-delay="0.2s">We IMPROVE YOUR <br>SALES EFFICIENCY</h1>
-							<a href="contact.html" class="theme-button-one wow fadeInUp animated" data-wow-delay="0.39s">CONTACT US</a>
+							<p class="wow fadeInUp animated">БАЯНХОНГОР АЙМАГТ ТАВТАЙ МОРИЛНО УУ</p>
+							<h1 class="wow fadeInUp animated" data-wow-delay="0.2s">ЧАНАРТАЙ ЗАХ ЗЭЭЛ <br> ТУРШЛАГА</h1>
+							<a href="about.html" class="theme-button-one wow fadeInUp animated" data-wow-delay="0.39s">БИДНИЙ ТУХАЙ</a>
 						</div> <!-- /.container -->
 					</div> <!-- /.camera_caption -->
 				</div>
-				<div data-src="images/home/slide-3.jpg">
+				<div data-src="images/home/background-slide1.jpg">
 					<div class="camera_caption">
 						<div class="container">
-							<p class="wow fadeInUp animated">The government they survive artical of fortune</p>
-							<h1 class="wow fadeInUp animated" data-wow-delay="0.2s">We IMPROVE YOUR <br>SALES EFFICIENCY</h1>
-							<a href="contact.html" class="theme-button-one wow fadeInUp animated" data-wow-delay="0.39s">CONTACT US</a>
+							<p class="wow fadeInUp animated">БАЯНХОНГОР АЙМАГТ ТАВТАЙ МОРИЛНО УУ</p>
+							<h1 class="wow fadeInUp animated" data-wow-delay="0.2s">ЧАНАРТАЙ ЗАХ ЗЭЭЛ <br> ТУРШЛАГА</h1>
+							<a href="about.html" class="theme-button-one wow fadeInUp animated" data-wow-delay="0.39s">БИДНИЙ ТУХАЙ</a>
 						</div> <!-- /.container -->
 					</div> <!-- /.camera_caption -->
 				</div>
@@ -190,503 +166,317 @@
 			
 			<!-- 
 			=============================================
-				Top Feature
+				CallOut Banner 
 			============================================== 
 			-->
-			<div class="top-feature section-spacing">
-				<div class="top-features-slide">
-					<div class="item">
-						<div class="main-content" style="background:#fafafa;">
-							<img src="images/icon/1.png" alt="">
-							<h4><a href="#">Consumer Insights</a></h4>
-							<p>The east side to a deluxe apartment in move on up to the east side</p>
-						</div> <!-- /.main-content -->
-					</div> <!-- /.item -->
-					<div class="item">
-						<div class="main-content" style="background:#f6f6f6;">
-							<img src="images/icon/2.png" alt="">
-							<h4><a href="#">Emerging Ideas</a></h4>
-							<p>The east side to a deluxe apartment in move on up to the east side</p>
-						</div> <!-- /.main-content -->
-					</div> <!-- /.item -->
-					<div class="item">
-						<div class="main-content" style="background:#efefef;">
-							<img src="images/icon/3.png" alt="">
-							<h4><a href="#">Thought Leadership</a></h4>
-							<p>The east side to a deluxe apartment in move on up to the east side</p>
-						</div> <!-- /.main-content -->
-					</div> <!-- /.item -->
-					<div class="item">
-						<div class="main-content" style="background:#e9e9e9;">
-							<img src="images/icon/4.png" alt="">
-							<h4><a href="#">Marketing Goals</a></h4>
-							<p>The east side to a deluxe apartment in move on up to the east side</p>
-						</div> <!-- /.main-content -->
-					</div> <!-- /.item -->
-				</div> <!-- /.top-features-slide -->
-			</div> <!-- /.top-feature -->
-
-
-			<!-- 
-			=============================================
-				About Company
-			============================================== 
-			-->
-			<div class="about-compnay section-spacing">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-6 col-12"><img src="images/home/1.jpg" alt=""></div>
-						<div class="col-lg-6 col-12">
-							<div class="text">
-								<div class="theme-title-one">
-									<h2>About Our Company</h2>
-									<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government they survive as soldiers of fortune to a deluxe apartment in the sky moving on up to the east side a family.</p>
-									<p>The government they survive as soldiers of fortune baby if you've ever wondered the east side to a deluxe apartment.</p>
-								</div> <!-- /.theme-title-one -->
-								<ul class="mission-goal clearfix">
-									<li>
-										<i class="icon flaticon-star"></i>
-										<h4>Vision</h4>
-									</li>
-									<li>
-										<i class="icon flaticon-medal"></i>
-										<h4>Missions</h4>
-									</li>
-									<li>
-										<i class="icon flaticon-target"></i>
-										<h4>Goals</h4>
-									</li>
-								</ul> <!-- /.mission-goal -->
-							</div> <!-- /.text -->
-						</div> <!-- /.col- -->
-					</div> <!-- /.row -->
-				</div> <!-- /.container -->
-			</div> <!-- /.about-compnay -->
-
-
-			<!-- 
-			=============================================
-				Feature Banner
-			============================================== 
-			-->
-			<div class="feature-banner section-spacing">
-				<div class="opacity">
-					<div class="container">
-						<h2>We provide high quality services &amp; innovative solutions for the realiable growth</h2>
-						<a href="#" class="theme-button-one">GET A QUOTES</a>
-					</div> <!-- /.container -->
-				</div> <!-- /.opacity -->
-			</div> <!-- /.feature-banner -->
-
-
-			<!-- 
-			=============================================
-				Service Style One
-			============================================== 
-			-->
-			<div class="service-style-one section-spacing">
-				<div class="container">
-					<div class="theme-title-one">
-						<h2>Our SERVICES</h2>
-						<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today stillers</p>
-					</div> <!-- /.theme-title-one -->
-					<div class="wrapper">
-						<div class="row">
-							<div class="col-xl-4 col-md-6 col-12">
-								<div class="single-service">
-									<div class="img-box"><img src="images/home/3.jpg" alt=""></div>
-									<div class="text">
-										<h5><a href="service-details.html">Business Services</a></h5>
-										<p>The tiny ship today stiller</p>
-										<a href="service-details.html" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-									</div> <!-- /.text -->
-								</div> <!-- /.single-service -->
-							</div> <!-- /.col- -->
-							<div class="col-xl-4 col-md-6 col-12">
-								<div class="single-service">
-									<div class="img-box"><img src="images/home/4.jpg" alt=""></div>
-									<div class="text">
-										<h5><a href="service-details.html">Consumer Product</a></h5>
-										<p>The tiny ship today stiller</p>
-										<a href="service-details.html" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-									</div> <!-- /.text -->
-								</div> <!-- /.single-service -->
-							</div> <!-- /.col- -->
-							<div class="col-xl-4 col-md-6 col-12">
-								<div class="single-service">
-									<div class="img-box"><img src="images/home/5.jpg" alt=""></div>
-									<div class="text">
-										<h5><a href="service-details.html">Financial Services</a></h5>
-										<p>The tiny ship today stiller</p>
-										<a href="service-details.html" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-									</div> <!-- /.text -->
-								</div> <!-- /.single-service -->
-							</div> <!-- /.col- -->
-							<div class="col-xl-4 col-md-6 col-12">
-								<div class="single-service">
-									<div class="img-box"><img src="images/home/6.jpg" alt=""></div>
-									<div class="text">
-										<h5><a href="service-details.html">Travel and Aviation</a></h5>
-										<p>The tiny ship today stiller</p>
-										<a href="service-details.html" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-									</div> <!-- /.text -->
-								</div> <!-- /.single-service -->
-							</div> <!-- /.col- -->
-							<div class="col-xl-4 col-md-6 col-12">
-								<div class="single-service">
-									<div class="img-box"><img src="images/home/7.jpg" alt=""></div>
-									<div class="text">
-										<h5><a href="service-details.html">Software Research</a></h5>
-										<p>The tiny ship today stiller</p>
-										<a href="service-details.html" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-									</div> <!-- /.text -->
-								</div> <!-- /.single-service -->
-							</div> <!-- /.col- -->
-							<div class="col-xl-4 col-md-6 col-12">
-								<div class="single-service">
-									<div class="img-box"><img src="images/home/8.jpg" alt=""></div>
-									<div class="text">
-										<h5><a href="service-details.html">Quality Resourcing</a></h5>
-										<p>The tiny ship today stiller</p>
-										<a href="service-details.html" class="read-more">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-									</div> <!-- /.text -->
-								</div> <!-- /.single-service -->
-							</div> <!-- /.col- -->
-						</div> <!-- /.row -->
-					</div> <!-- /.wrapper -->
-					<div class="contact-text">
-						<h4>You can also send us an email and we’ll get in touch shortly, or Call us</h4>
-						<h5><a href="#">info@support.com</a>  (or)  <a href="#">+1 234 6780 900</a></h5>
-					</div>
-				</div> <!-- /.container -->
-			</div> <!-- /.service-style-one -->
-
-
-			<!--
-			=====================================================
-				Testimonial Slider
-			=====================================================
-			-->
-			<div class="testimonial-section section-spacing">
-				<div class="overlay">
-					<div class="container">
-						<div class="wrapper">
-							<div class="bg">
-								<div class="testimonial-slider">
-									<div class="item">
-										<p>“ A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government they survive as soldiers of fortune to a deluxe apartment in the sky moving on up to the east side a family. ”</p>
-										<div class="name">
-											<h6>Shawn Michael</h6>
-											<span>Founder, Mnc Inc.</span>
-										</div> <!-- /.name -->
-									</div> <!-- /.item -->
-									<div class="item">
-										<p>“ A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government they survive as soldiers of fortune to a deluxe apartment in the sky moving on up to the east side a family. ”</p>
-										<div class="name">
-											<h6>Rashed Ka.</h6>
-											<span>Founder, Mnc Inc.</span>
-										</div> <!-- /.name -->
-									</div> <!-- /.item -->
-									<div class="item">
-										<p>“ A tale of a fateful trip that started from this tropic port aboard this tiny ship today still wanted by the government they survive as soldiers of fortune to a deluxe apartment in the sky moving on up to the east side a family. ”</p>
-										<div class="name">
-											<h6>Mahfuz Riad</h6>
-											<span>Founder, Mnc Inc.</span>
-										</div> <!-- /.name -->
-									</div> <!-- /.item -->
-								</div> <!-- /.testimonial-slider -->
-							</div> <!-- /.bg -->
-						</div> <!-- /.wrapper -->
-					</div> <!-- /.container -->
-				</div> <!-- /.overlay -->
-			</div> <!-- /.testimonial-section -->
-
-
-			<!--
-			=====================================================
-				Our Team
-			=====================================================
-			-->
-			<div class="our-team section-spacing">
-				<div class="container">
-					<div class="theme-title-one">
-						<h2>Our TEAM</h2>
-						<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today stillers</p>
-					</div> <!-- /.theme-title-one -->
-					<div class="wrapper">
-						<div class="row">
-							<div class="col-lg-3 col-sm-6 col-12">
-								<div class="team-member">
-									<div class="image-box">
-										<img src="images/team/1.jpg" alt="">
-										<div class="overlay">
-											<div class="hover-content">
-												<ul>
-													<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-													<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-													<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-												</ul>
-												<p>The government they survive as soldiers of fortune.</p>
-											</div> <!-- /.hover-content -->
-										</div> <!-- /.overlay -->
-									</div> <!-- /.image-box -->
-									<div class="text">
-										<h6>Richards Mills</h6>
-										<span>Sales Consultant</span>
-									</div> <!-- /.text -->
-								</div> <!-- /.team-member -->
-							</div> <!-- /.col- -->
-							<div class="col-lg-3 col-sm-6 col-12">
-								<div class="team-member">
-									<div class="image-box">
-										<img src="images/team/2.jpg" alt="">
-										<div class="overlay">
-											<div class="hover-content">
-												<ul>
-													<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-													<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-													<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-												</ul>
-												<p>The government they survive as soldiers of fortune.</p>
-											</div> <!-- /.hover-content -->
-										</div> <!-- /.overlay -->
-									</div> <!-- /.image-box -->
-									<div class="text">
-										<h6>Mike Hussey</h6>
-										<span>Founder, CEO</span>
-									</div> <!-- /.text -->
-								</div> <!-- /.team-member -->
-							</div> <!-- /.col- -->
-							<div class="col-lg-3 col-sm-6 col-12">
-								<div class="team-member">
-									<div class="image-box">
-										<img src="images/team/3.jpg" alt="">
-										<div class="overlay">
-											<div class="hover-content">
-												<ul>
-													<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-													<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-													<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-												</ul>
-												<p>The government they survive as soldiers of fortune.</p>
-											</div> <!-- /.hover-content -->
-										</div> <!-- /.overlay -->
-									</div> <!-- /.image-box -->
-									<div class="text">
-										<h6>Jenilia D’sosa</h6>
-										<span>Marketing Lead</span>
-									</div> <!-- /.text -->
-								</div> <!-- /.team-member -->
-							</div> <!-- /.col- -->
-							<div class="col-lg-3 col-sm-6 col-12">
-								<div class="team-member">
-									<div class="image-box">
-										<img src="images/team/4.jpg" alt="">
-										<div class="overlay">
-											<div class="hover-content">
-												<ul>
-													<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-													<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-													<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-												</ul>
-												<p>The government they survive as soldiers of fortune.</p>
-											</div> <!-- /.hover-content -->
-										</div> <!-- /.overlay -->
-									</div> <!-- /.image-box -->
-									<div class="text">
-										<h6>David Warner</h6>
-										<span>SEO Analyst</span>
-									</div> <!-- /.text -->
-								</div> <!-- /.team-member -->
-							</div> <!-- /.col- -->
-						</div> <!-- /.row -->
-					</div> <!-- /.wrapper -->
-				</div> <!-- /.container -->
-			</div> <!-- /.our-team -->
-
-
-			<!--
-			=====================================================
-				Theme Counter
-			=====================================================
-			-->
-			<div class="theme-counter section-spacing">
-				<div class="container">
-					<div class="bg">
-						<h6>Company Success</h6>
-						<h2>Some fun facts about our consulting</h2>
-
-						<div class="cunter-wrapper">
-							<div class="row">
-								<div class="col-md-3 col-6">
-									<div class="single-counter-box">
-				        				<div class="number"><span class="timer" data-from="0" data-to="30" data-speed="1200" data-refresh-interval="5">0</span>+</div>
-				        				<p>Years of Excellence</p>
-				        			</div> <!-- /.single-counter-box -->
-								</div>  <!-- /.col- -->
-								<div class="col-md-3 col-6">
-									<div class="single-counter-box">
-				        				<div class="number"><span class="timer" data-from="0" data-to="100" data-speed="1200" data-refresh-interval="5">0</span>%</div>
-				        				<p>Client Satisfaction</p>
-				        			</div> <!-- /.single-counter-box -->
-								</div>  <!-- /.col- -->
-								<div class="col-md-3 col-6">
-									<div class="single-counter-box">
-				        				<div class="number"><span class="timer" data-from="0" data-to="53" data-speed="1200" data-refresh-interval="5">0</span>k</div>
-				        				<p>Cases Completed</p>
-				        			</div> <!-- /.single-counter-box -->
-								</div>  <!-- /.col- -->
-								<div class="col-md-3 col-6">
-									<div class="single-counter-box">
-				        				<div class="number"><span class="timer" data-from="0" data-to="24" data-speed="1200" data-refresh-interval="5">0</span></div>
-				        				<p>Consultants</p>
-				        			</div> <!-- /.single-counter-box -->
-								</div>  <!-- /.col- -->
-							</div> <!-- /.row -->
-						</div> <!-- /.cunter-wrapper -->
-						<a href="#" class="theme-button-one">VIEW CASE STUDIES</a>
-					</div> <!-- /.bg -->
-				</div> <!-- /.container -->
-			</div> <!-- /.theme-counter -->
-
-
-			<!--
-			=====================================================
-				Free Consultation
-			=====================================================
-			-->
-			<div class="consultation-form section-spacing">
-				<div class="container">
-					<div class="theme-title-one">
-						<h2>FREE CONSULTATION</h2>
-						<p>A tale of a fateful trip that started from this tropic port aboard this tiny ship today stillers</p>
-					</div> <!-- /.theme-title-one -->
-					<div class="clearfix main-content no-gutters row">
-						<div class="col-xl-6 col-lg-5 col-12"><div class="img-box"></div></div>
-						<div class="col-xl-6 col-lg-7 col-12">
-							<div class="form-wrapper">
-								<form action="#" class="theme-form-one">
-									<div class="row">
-										<div class="col-md-6"><input type="text" placeholder="Name *"></div>
-										<div class="col-md-6"><input type="text" placeholder="Phone *"></div>
-										<div class="col-md-6"><input type="email" placeholder="Email *"></div>
-										<div class="col-md-6">
-											<select class="form-control" id="exampleSelect1">
-										      <option>Service you’re looking for?</option>
-										      <option>Business Services</option>
-										      <option>Consumer Product</option>
-										      <option>Financial Services</option>
-										      <option>Software Research</option>
-										    </select>
-										</div>
-										<div class="col-12"><textarea placeholder="Message"></textarea></div>
-									</div> <!-- /.row -->
-									<button class="theme-button-one">GET A QUOTES</button>
-								</form>
-							</div> <!-- /.form-wrapper -->
-						</div> <!-- /.col- -->
-					</div> <!-- /.main-content -->
-				</div> <!-- /.container -->
-			</div> <!-- /.consultation-form -->
-
-
-
-			<!--
-			=====================================================
-				Partner Slider
-			=====================================================
-			-->
-			<div class="partner-section bg-color">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-3 col-sm-4 col-12">
-							<h6>OUR <br>PARTNERS</h6>
-						</div>
-						<div class="col-md-9 col-sm-8 col-12">
-							<div class="partner-slider">
-								<div class="item"><img src="images/logo/p-1.png" alt=""></div>
-								<div class="item"><img src="images/logo/p-2.png" alt=""></div>
-								<div class="item"><img src="images/logo/p-3.png" alt=""></div>
-								<div class="item"><img src="images/logo/p-4.png" alt=""></div>
-								<div class="item"><img src="images/logo/p-5.png" alt=""></div>
-							</div>
-						</div>
-					</div>
+			<div class="callout-banner section-spacing">
+				<div class="container clearfix">
+					<h3 class="title">Баянхонгор аймгийн хөгжилд таны оруулах санал</h3>
+					<p>Монгол улсын сангийн сайдын 2018 оны 09 дүгээр сарын 12-ний өдрийн 288 дугаар тушаал. Орон нутгийн хөгжлийн сангийн үйл ажиллагааны журмын 1 дүгээр хавсралтын дагуу иргэдээс санал авч байна</p>
+					<a href="#" class="theme-button-one">САНАЛ ӨГӨХ</a>
 				</div>
-			</div> <!-- /.partner-section -->
+			</div> <!-- /.callout-banner -->
 
+
+			<!-- 
+			=============================================
+				Our Solution
+			============================================== 
+			-->
+			<div class="our-solution section-spacing" style="margin-bottom: 100px;">
+				<div class="container">
+					<div class="theme-title-one">
+
+						<!-- service list -->
+						<h2>ҮЙЛЧИЛГЭЭНҮҮД</h2>
+					</div> <!-- /.theme-title-one -->
+					<div class="wrapper">
+						<div class="row d-flex ">
+							<div class="col-lg-4 col-sm-6 col-12">
+								<div class="single-solution-block">
+									<img src="images/icon/5.png" alt="" class="icon">
+									<h5><a href="lavlagaaTodorhoilolt.html">Лавлагаа тодорхойлолт үйлчилгээ</a></h5>
+									<p>Нийгмийн даатгалын шимтгэл төлөлтийн талаарх тодорхойлолт</p>
+								</div> <!-- /.single-solution-block -->
+							</div> <!-- /.col- -->
+							<div class="col-lg-4 col-sm-6 col-12">
+								<div class="single-solution-block">
+									<img src="images/icon/6.png" alt="" class="icon">
+									<h5 ><a href="negShatlaltUilchilgee.html">Нэг шатлалт үйлчилгээ</a></h5>
+									<p>Иргэний оршин суугаа газрын хаягийн бүртгэлийн лавлагаа</p>
+								</div> <!-- /.single-solution-block -->
+							</div> <!-- /.col- -->
+							<div class="col-lg-4 col-sm-6 col-12">
+								<div class="single-solution-block">
+									<img src="images/icon/7.png" alt="" class="icon">
+									<h5><a href="olonShatlaltUilchilgee.html">Олон шатлалт үйлчилгээ</a></h5>
+									<p>Авто тээврийн хэрэгслийн торгуулийн мэдээлэл </p>
+								</div> <!-- /.single-solution-block -->
+							</div> <!-- /.col- -->
+							<div class="col-lg-6 col-sm-6 col-12">
+								<div class="single-solution-block">
+									<img src="images/icon/8.png" alt="" class="icon">
+									<h5><a href="tugeemelAsuultHariult.html">Түгээмэл асуулт хариулт</a></h5>
+									<p>Эрүүл мэндийн даатгалын төлөлт шалгах </p>
+								</div> <!-- /.single-solution-block -->
+							</div> <!-- /.col- -->
+							<div class="col-lg-6 col-sm-6 col-12">
+								<div class="single-solution-block">
+									<img src="images/icon/9.png" alt="" class="icon">
+									<h5><a href="oronNutgiinUilchilgee.html">Орон нутгийн үйлчилгээ</a></h5>
+									<p>Үл хөдлөх эд хөрөнгөтэй эсэх лавлагаа </p>
+								</div> <!-- /.single-solution-block -->
+							</div> <!-- /.col- -->
+						</div> <!-- /.row -->
+					</div> <!-- /.wrapper -->
+				</div> <!-- /.container -->
+			</div> <!-- /.our-solution -->
+
+
+			<!-- 
+			=============================================
+				About Company Stye Two
+			============================================== 
+			-->
+		
+			<div class="our-blog latest-news section-spacing">
+				<div class="container">
+					<div class="theme-title-one">
+						<h2>ҮЙЛЧИЛГЭЭНҮҮД</h2>
+						<p>Баянхонгор аймгийн хүрээнд авах боломжтой үйлчилгээнүүд</p>
+					</div> <!-- /.theme-title-one -->
+
+					<div class="wrapper">
+						<div class="clearfix">
+							<div class="latest-news-slider">
+								<!-- one list  -->
+								<div class="item slider__item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/serviceListLogo/zam-teever.svg" alt="">
+											<div class="overlay"><a href="singleDetailAvtoTeever.html" class="date">Авто тээврийн төв</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="singleDetailAvtoTeever.html">Авто тээврийн хэрэгслийн гэрчилгээ солих...</a></h5>
+											<a href="singleDetailAvtoTeever.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div> <!-- /.col- -->
+								<div class="item slider__item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/serviceListLogo/tsagdaa.svg" alt="tsagdaa">
+											<div class="overlay"><a href="police.html" class="date">Цагдаагийн газар</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="police.html">Хяналтын камерын тодорхойлолт гаргах</a></h5>
+											<a href="police.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div> <!-- /.col- -->
+								<div class="item slider__item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/serviceListLogo/baigali.svg" alt="baigaliaylaljuulchlal">
+											<div class="overlay"><a href="baigaliOrchinAylal.html" class="date">Байгаль орчин, аялал жуулчлалын газар</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="baigaliOrchinAylal.html">Ус ашиглуулах дүгнэлт гаргуулах хүсэлт хүлээн авах...</a></h5>
+											<a href="baigaliOrchinAylal.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div> 
+								
+								<div class="item slider__item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/serviceListLogo/zasagdarga.svg" alt="zasag darga">
+											<div class="overlay"><a href="zasagDargiinTamgiinGazar.html" class="date">Засаг даргын тамгын газар</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="zasagDargiinTamgiinGazar.html">Согтууруулах ундаа худалдах, түүгээр 
+												үйлчлэх тусгай зөвшөөрлийн үйлчилгээ...</a></h5>
+											<a href="zasagDargiinTamgiinGazar.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div><div class="item slider__item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/blog/5.jpg" alt="">
+											<div class="overlay"><a href="toviinArhiv.html" class="date">Аймгийн төвийн архив</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="toviinArhiv.html">Хөдөлмөр эрхлэлтийн лавлагаа...</a></h5>
+											<a href="toviinArhiv.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div><div class="item slider__item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/serviceListLogo/doctor.svg" alt="doctor">
+											<div class="overlay"><a href="eruulMendGazar.html" class="date">Эрүүл мэндийн газар</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="eruulMendGazar.html">Эрүүл мэндийн чиглэлээр мэргэжлийн үйл ажиллагаа 
+												эрхлэх тусгай зөвшөөрөл сунгах...</a></h5>
+											<a href="eruulMendGazar.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.sing le-blog -->
+								</div><div class="item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/serviceListLogo/tamgiingazar.svg" alt="">
+											<div class="overlay"><a href="#" class="date">Сумын засаг даргын тамгын газар</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="blog-details.html">Тамхи худалдан борлуулах тусгай зөвшөөрөл шинээр авах, 
+												сунгах /Баянхонгор сум/...</a></h5>
+											<a href="blog-details.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div>
+								<div class="item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/blog/5.jpg" alt="">
+											<div class="overlay"><a href="#" class="date">Хүнс хөдөө аж ахуйн газар</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="blog-details.html">Жижиг дунд үйлдвэрлэл дэмжих орон нутгийн хөнгөлөлттэй 
+												зээлд хамрагдсан эсэх тодорхойлолт...</a></h5>
+											<a href="blog-details.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div>
+								<div class="item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/blog/5.jpg" alt="">
+											<div class="overlay"><a href="#" class="date">Бөөнцагаан Орог нуурын сав 
+												газрын захиргаа</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="blog-details.html">Цооног өрөмдөх, худаг гаргах зөвшөөрөл...</a></h5>
+											<a href="blog-details.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div>
+								<div class="item">
+									<div class="single-blog">
+										<div class="image-box">
+											<img src="images/serviceListLogo/barilga.svg" alt="barilga">
+											<div class="overlay"><a href="#" class="date">Барилга, Газар</a></div>
+										</div> <!-- /.image-box -->
+										<div class="post-meta">
+											<h5 class="title"><a href="blog-details.html"></a></h5>
+											<a href="blog-details.html" class="read-more">Үйлчилгээнүүд</a>
+										</div> <!-- /.post-meta -->
+									</div> <!-- /.single-blog -->
+								</div>
+								
+								
+								
+								
+								
+							</div> <!-- /.latest-news-slider -->
+						</div> <!-- /.row -->
+					</div> <!-- /.wrapper -->
+				</div> <!-- /.container -->
+			</div> <!-- /.our-blog -->
+
+
+
+			<!--
+			=====================================================
+				Google Map
+			=====================================================
+			-->
+			<!-- Google Map -->
+			<div class="google-map-one"><div class="map-canvas"></div></div>
+			
 
 			<!--
 			=====================================================
 				Footer
 			=====================================================
 			-->
-			<footer class="theme-footer-one">
+			<footer class="theme-footer-two">
 				<div class="top-footer">
 					<div class="container">
 						<div class="row">
-							<div class="col-xl-3 col-lg-4 col-sm-6 about-widget">
-								<h6 class="title">About OUR Consulting</h6>
-								<p>That started from this tropic port aboard this tiny ship today still want by theam government they survive on up to thetre east side to a deluxe as soldiers of artics fortune.</p>
-								<div class="queries"><i class="flaticon-phone-call"></i> Any Queries : <a href="#">(+1) 234 567 900</a></div>
-							</div> <!-- /.about-widget -->
-							<div class="col-xl-4 col-lg-3 col-sm-6 footer-recent-post">
-								<h6 class="title">RECENT POSTS</h6>
-								<ul>
-									<li class="clearfix">
-										<img src="images/blog/1.jpg" alt="" class="float-left">
-										<div class="post float-left">
-											<a href="blog-details.html">Till wanted by theam govern they survive as soldiers.</a>
-											<div class="date"><i class="fa fa-calendar-o" aria-hidden="true"></i> Feb 06, 2018</div>
-										</div>
-									</li>
-									<li class="clearfix">
-										<img src="images/blog/2.jpg" alt="" class="float-left">
-										<div class="post float-left">
-											<a href="blog-details.html">World don't move to beat of just one drum.</a>
-											<div class="date"><i class="fa fa-calendar-o" aria-hidden="true"></i> Mar 20, 2018</div>
-										</div>
-									</li>
+							<div class="col-lg-4 col-sm-6 col-12 logo-widget">
+								<div class="logo"><a href="index.html"><img src="images/logo/logo.png" alt=""></a></div>
+								<p>Tthis tropic port aboard this tiny ship today still wanted by theam government they survive on up east side to a deluxe as soldiers.</p>
+								<ul class="social-icon">
+									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+									<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+									<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
 								</ul>
-							</div> <!-- /.footer-recent-post -->
-							<div class="col-xl-2 col-lg-3 col-sm-6 footer-list">
-								<h6 class="title">SOLUTIONS</h6>
+							</div> <!-- /.logo-widget -->
+							<div class="col-lg-2 col-sm-6 col-12 footer-list">
+								<h6 class="title">EXPLORE</h6>
 								<ul>
-									<li><a href="#">Travel and Aviation</a></li>
-									<li><a href="#">Business Services</a></li>
-									<li><a href="#">Consumer Products</a></li>
-									<li><a href="#">Financial Services</a></li>
-									<li><a href="#">Software Research</a></li>
-									<li><a href="#">Quality Resourcing</a></li>
+									<li><a href="about.html">About us</a></li>
+									<li><a href="service.html">Our Solutions</a></li>
+									<li><a href="project.html">Case Studies</a></li>
+									<li><a href="blog.html">Blog</a></li>
+									<li><a href="contact.html">Contact us</a></li>
 								</ul>
 							</div> <!-- /.footer-list -->
-							<div class="col-xl-3 col-lg-2 col-sm-6 footer-newsletter">
-								<h6 class="title">NEWSLETTER</h6>
-								<form action="#">
-									<input type="text" placeholder="Name *">
-									<input type="email" placeholder="Email *">
-									<button class="theme-button-one">SUBSCRIBE</button>
-								</form>
-							</div>
+							<div class="col-lg-3 col-sm-6 col-12 footer-gallery">
+								<h6 class="title">Gallery</h6>
+								<div class="wrapper">
+									<div class="row">
+										<div class="col-4">
+											<a href="images/portfolio/7.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/7.jpg" alt=""></a>
+										</div>
+										<div class="col-4">
+											<a href="images/portfolio/8.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/8.jpg" alt=""></a>
+										</div>
+										<div class="col-4">
+											<a href="images/portfolio/9.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/9.jpg" alt=""></a>
+										</div>
+										<div class="col-4">
+											<a href="images/portfolio/10.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/10.jpg" alt=""></a>
+										</div>
+										<div class="col-4">
+											<a href="images/portfolio/11.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/11.jpg" alt=""></a>
+										</div>
+										<div class="col-4">
+											<a href="images/portfolio/12.jpg" data-fancybox="gallery" data-caption="Caption for single image" class="fancybox"><img src="images/portfolio/12.jpg" alt=""></a>
+										</div>
+									</div>
+								</div>
+							</div> <!-- /.footer-gallery -->
+							
+							<div class="col-lg-3 col-sm-6 col-12 contact-widget">
+								<h6 class="title">CONTACT</h6>
+								<ul>
+									<li>
+										<i class="flaticon-direction-signs"></i>
+										23A, Queenstown St, Log Vegas, United States.
+									</li>
+									<li>
+										<i class="flaticon-multimedia-1"></i>
+										<a href="#">mailhere@support.com</a>
+									</li>
+									<li>
+										<i class="fa fa-phone" aria-hidden="true"></i>
+										<a href="#">(+2) 345  9808  000</a>
+									</li>
+								</ul>
+							</div> <!-- /.contact-widget -->
 						</div> <!-- /.row -->
 					</div> <!-- /.container -->
 				</div> <!-- /.top-footer -->
 				<div class="bottom-footer">
 					<div class="container">
-						<div class="row">
-							<div class="col-md-6 col-12"><p>&copy; Copyrights 2018. All Rights Reserved.</p></div>
-							<div class="col-md-6 col-12">
-								<ul>
-									<li><a href="about.html">About</a></li>
-									<li><a href="service.html">Solutions</a></li>
-									<li><a href="#">FAQ’s</a></li>
-									<li><a href="contact.html">Contact</a></li>
-								</ul>
-							</div>
-						</div>
+						<p>&copy; Copyrights 2018. All Rights Reserved.</p>
 					</div>
 				</div> <!-- /.bottom-footer -->
-			</footer> <!-- /.theme-footer -->
+			</footer> <!-- /.theme-footer-two -->
 			
 
 	        
@@ -722,9 +512,15 @@
 		<script src="vendor/jquery.countTo.js"></script>
 		<!-- Fancybox -->
 		<script src="vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+		<!-- Language Stitcher -->
+		<script src="vendor/language-switcher/jquery.polyglot.language.switcher.js"></script>
+		<!-- Google map js -->
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjQLCCbRKFhsr8BY78g2PQ0_bTyrm_YXU"></script>
+		<script src="vendor/sanzzy-map/dist/snazzy-info-window.min.js"></script>
 
 		<!-- Theme js -->
 		<script src="js/theme.js"></script>
+		<script src="js/map-script.js"></script>
 		</div> <!-- /.main-page-wrapper -->
 	</body>
 </html>
