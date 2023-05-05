@@ -1,36 +1,52 @@
 import {Service, LeftMenu} from './Service.js'
-import {hash,data, manyStepService, 
+import {hash,data, 
     oneStepService,oneStepLeftMenu,manyStepService,
     dataLeftMenu} from './data.js'
 export default class Model {
-    items = [];
-    leftNavs=[];
+    #items = [];
+    #leftNavs=[];
 
     // data ni id orj iren
     constructor(id){
         if(id == hash.lavlagaa){
-            data.forEach(service=> this.items.push(new Service(service.name, service.link, service.group)));
-            this.leftNavs= dataLeftMenu;
+            console.log('lavlagaa')
+            data.forEach(service=> this.#items.push(new Service(service.name, service.link, service.group)));
+            dataLeftMenu.forEach(menu=> this.#leftNavs.push(new LeftMenu(menu)))
         }else if(id == hash.manystepService){
-            manyStepService.forEach(service=> this.items.push(new Service(service.name, service.link, service.group)));
-            this.leftNavs= manyStepService;
+            console.log('many ')
+
+            manyStepService.forEach(service=> this.#items.push(new Service(service.name, service.link, service.group)));
+            manyStepService.forEach(menu=> this.#leftNavs.push(new LeftMenu(menu)))
+
         }else if(id == hash.onestepService){
-            oneStepService.forEach(service=> this.items.push(new Service(service.name, service.link, service.group)));
-            this.leftNavs= oneStepLeftMenu;
+            console.log('one  ')
+
+            oneStepService.forEach(service=> this.#items.push(new Service(service.name, service.link, service.group)));
+            oneStepLeftMenu.forEach(menu=> this.#leftNavs.push(new LeftMenu(menu)))
+
         }else{
+            console.log('all');
             let all = [...data, ...manyStepService, ...oneStepService];
             let allLeftNavs = [...oneStepLeftMenu,...manyStepService,...dataLeftMenu]
-            all.forEach(service=> items.push(new Service(service.name, service.link, service.group)));
-            this.leftNavs = allLeftNavs;
+            all.forEach(service=> this.#items.push(new Service(service.name, service.link, service.group)));
+            allLeftNavs.forEach(menu=> this.#leftNavs.push(new LeftMenu(menu)))
+
         }
      
     }
+    getleftNavs(){
+        return this.#leftNavs;
+    }
+    getItems(){
+        return this.#items;
+    }
     print(){
-        this.items.forEach(element => {
+        this.#items.forEach(element => {
             console.log(element);
         });
     }
     search(searchByGroup){
-        return this.items.filter(service => service.group.toLowerCase() == searchByGroup.toLowerCase())
+        console.log(searchByGroup);
+        return this.#items.filter(service => service.group.toLowerCase().startsWith(searchByGroup.toLowerCase()))
     }
 }

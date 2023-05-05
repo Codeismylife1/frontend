@@ -2202,6 +2202,8 @@ overflow: hidden;
 
 
 .list-group{
+  margin-top: 20px;
+  margin-bottom: 20px;
   display: flex;
   justify-content: flex-start;
   gap: 10px;

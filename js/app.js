@@ -4,7 +4,11 @@ import {} from './data.js'
 
 
 const state = {};
-const elements={};
+const elements={
+    serviceList : document.querySelector('.serviceList'),
+    leftNavList : document.querySelector('.leftNavList'),
+    leftNavMenu : document.querySelectorAll('.leftNavMenu')
+};
 
 
 //render 
@@ -53,18 +57,23 @@ z*/
  */
 const controlService = ()=>{
     const id = window.location.hash.replace("#", "");
-
+    console.log(id);
     if(id){
         // 2) Үйлчилгээний моделийг үүсгэж өгнө.
  
         state.data = new Model(id);
+        console.log(state.data.getleftNavs());
         
           // 3) UI дэлгэцийг бэлтгэнэ.
         clearServiceList();
         clearLeftMenuList();
 
-        renderLeftMenu(state.data.leftMenus);
-        renderServices(state.data.items);
+        renderLeftMenus(state.data.getleftNavs());
+        // connect click event
+        connectClickEvent();
+      
+          
+        renderServices(state.data.getItems());
     }else{
         // navigate undsen esvel #бүх-үйлчилгээ
         // window.location.replace()
@@ -75,25 +84,54 @@ const controlService = ()=>{
 
 const clearServiceList=()=>{
     // select and innterHtml null
+    elements.serviceList.innerHTML = '';
    
     // const elements.recipeDiv.innerHTML = "";
 }
 const clearLeftMenuList=()=>{
-
+    elements.leftNavList.innerHTML = "";
 }
 const renderServices=(services)=>{
-    // services massive
+    const html = `${services.map(service=>renderOneService(service)).join("")}`
+    // // services massive
 
-    const html = ``;
-    elements.insertAdjacentHTML('afterbegin',html);
-
+    elements.serviceList.insertAdjacentHTML('afterbegin',html);
 }
-const renderLeftMenu=(leftMenus)=>{
-    const html = ``;
-    elements.insertAdjacentHTML('afterbegin',html);
+const renderOneService = (service)=>` <div class="list-item-container">
+<div class="item-content">
+  <div>
+    <div class="item-title">${service.name}</div>
+
+    <span class="item-description">
+      <span class="ant-badge-status-dot"></span>
+      <span class="">Онлайн үйлчилгээ</span></span
+    >
+  </div>
+</div>
+</div>`;
+const renderLeftMenus=(leftMenus)=>{
+    const html = `${leftMenus.map(menu=> renderOneMenu(menu)).join("")}`;
+    elements.leftNavList.insertAdjacentHTML('beforeend', html);
 }
 
-
-
+const renderOneMenu = menu=> `<li class="list-group-item leftNavMenu list-group-item-action" data-catname=${menu.name}>${menu.name}</li>`;
 
 ["load","hashchange"].forEach(event=>window.addEventListener(event,controlService))
+
+
+const connectClickEvent = ()=>{
+    Array.from(document.querySelectorAll('.leftNavMenu')).forEach(
+        el=> el.addEventListener('click', e => {
+            // Клик хийсэн li элементийн data-catname аттрибутыг шүүж гаргаж авах
+            const id =  e.target.closest(".leftNavMenu").dataset.catname
+            console.log(id);
+            // Олдсон категорид хамаарах үйлчилгээг шүүж гаргах.
+            clearServiceList();
+            state.data.items =  state.data.search(id);
+            console.log(state.data.items);
+            renderServices(state.data.items)
+            // uilchilgeeg dahin render hiine 
+            
+          })
+    )
+};

@@ -22,77 +22,77 @@ export const data = [
     }
     , {
         name: "Регистрийн дугаарын лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/ryegistriin-dugaaryn-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Регистрийн дугаар өөрчилсөн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/ryegistriin-dugaar-uurchilsun-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Овог, эцэг/эх/-ийн нэр, өөрийн нэр өөрчилсний бүртгэлийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/ovog-etseg-(ekh)-iin-ner-uuriin-ner-uurchilsnii-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Овог, эцэг/эх/-ийн нэр, өөрийн нэр өөрчилсний бүртгэлийн лавлагаа /хүүхдийн/",
-        link:"",
+        link:"https://e-mongolia.mn/service/urgiin-ovog-etseg-(ekh)-iin-ner-uuriin-ner-uurchilsnii-burtgeliin-khuselt",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Үндэсний энгийн гадаад паспортын бүртгэлгүй тухай лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/undesnii-engiin-gadaad-pasportyn-burtgelgui-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Үндэсний энгийн гадаад паспортын бүртгэлийн лавлагаа /анх удаа авсан/",
-        link:"",
+        link:"https://e-mongolia.mn/service/undesnii-engiin-gadaad-pasportyn-burtgeliin-lavlagaa-(ankh-udaa-avsan)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Үндэсний энгийн гадаад паспортын бүртгэлийн лавлагаа /дахин авсан/",
-        link:"",
+        link:"https://e-mongolia.mn/service/undesnii-engiin-gadaad-pasportyn-burtgeliin-lavlagaa-(dakhin-avsan)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Иргэний үнэмлэхийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-unemlekhiin-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Иргэний оршин суугаа газрын хаягийн бүртгэлийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-orshin-suugaa-gazryn-khayagiin-burtgeliin-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Гэрлэсний бүртгэлгүй лавлагаа (англи)",
-        link:"",
+        link:"https://e-mongolia.mn/service/gerlesnii-burtgelgui-lavlagaa-(angli)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Гэрлэсний бүртгэлийн лавлагаа (англи)",
-        link:"",
+        link:"https://e-mongolia.mn/service/gerlesnii-burtgeliin-lavlagaa-(angli)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Иргэний үнэмлэхийн лавлагаа (англи)",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-unemlekhiin-lavlagaa-(angli)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Төрсний бүртгэлийн лавлагаа (англи)",
-        link:"",
+        link:"https://e-mongolia.mn/service/tursnii-burtgeliin-lavlagaa-(angli)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хуулийн этгээд улсын бүртгэлд бүртгэлтэй эсэх лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/khun-khuuliin-etgeeded-gazar-ezemshuulekh-gereenii-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хуулийн этгээдийн хаягийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/khun-khuuliin-etgeeded-gazar-ezemshuulekh-gereenii-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
 
@@ -104,17 +104,17 @@ export const data = [
     
     {
         name: "Хуулийн этгээдийн нэр өөрчлөгдсөн тухай лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuuliin-etgeediin-ner-uurchlukh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хуулийн этгээдийн татан буугдсан эсэх лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuuliin-etgeed-tatan-buugdaj-ulsyn-burtgelees-khasagdsan-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хуулийн этгээдийн бүртгэлгүй тухай лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuuliin-etgeed-burtgelgui-tukhai-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
@@ -124,17 +124,17 @@ export const data = [
     },
     {
         name: "Үл хөдлөх хөрөнгийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/ul-khudlukh-khurungiin-jagsaaltyn-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Үл хөдлөх хөрөнгийн жагсаалтын лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/ul-khudlukh-khurungiin-jagsaaltyn-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Үл хөдлөх эд хөрөнгөтэй эсэх лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/ul-khudlukh-ed-khurungutei-esekh-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
@@ -144,22 +144,22 @@ export const data = [
     },
     {
         name: "Оношилгоо, техникийн хяналтын үзлэгийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/onoshilgoo-tyekhnikiin-khyanaltyn-uzlegiin-medeelel-kharakh",
         group : "Авто тээврийн үндэсний төв ТӨААТҮГ",
     },
     {
         name: "Авто тээврийн хэрэгслийн торгуулийн мэдээлэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/avto-teevriin-kheregsliin-torguuliin-medeelel",
         group : "Авто тээврийн үндэсний төв ТӨААТҮГ",
     },
     {
         name: "Авто тээврийн хэрэгсэл эзэмших, өмчлөх эрхийн лавлагаа (Иргэн одоо эзэмшиж байгаа)",
-        link:"",
+        link:"https://e-mongolia.mn/service/avtoteevriin-kheregsel-ezemshikh-umchlukh-erkhiin-lavlagaa-(irgen-odoo-ezemshij-baigaa)",
         group : "Авто тээврийн үндэсний төв ТӨААТҮГ",
     },
     {
         name: "Авто тээврийн хэрэгсэл эзэмших, өмчлөх эрхийн лавлагаа (Иргэн өмнө өмчилж байсан)",
-        link:"",
+        link:"https://e-mongolia.mn/service/avtoteevriin-kheregsel-ezemshikh-umchlukh-erkhiin-lavlagaa-(irgen-umnu-umchilj-baisan)",
         group : "Авто тээврийн үндэсний төв ТӨААТҮГ",
     },
     {
@@ -174,12 +174,12 @@ export const data = [
     },
     {
         name: "Мэргэшсэн жолоочийн үнэмлэхийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/mergeshsen-joloochiin-unemlekhiin-lavlagaa",
         group : "Авто тээврийн үндэсний төв ТӨААТҮГ",
     },
     {
         name: "Гаалийн байгууллагад өртэй эсэх тодорхойлолт /иргэн/",
-        link:"",
+        link:"https://e-mongolia.mn/service/gaaliin-baiguullagad-urtei-esekh-todorkhoilolt-(irgen)",
         group : "Гаалийн ерөнхий газар",
     },
     {
@@ -190,7 +190,7 @@ export const data = [
     
     {
         name: "Гаалийн мэдүүлгээр бүрдүүлэлт хийсэн лавлагаа (Иргэн)",
-        link:"",
+        link:"https://e-mongolia.mn/service/gaaliin-meduulgeer-burduulelt-khiisen-lavlagaa-(irgen)",
         group : "Гаалийн ерөнхий газар",
     },
     {
@@ -200,7 +200,7 @@ export const data = [
     },
     {
         name: "Гаалийн зөрчлийн лавлагаа (иргэн)",
-        link:"",
+        link:"https://e-mongolia.mn/service/gaaliin-zurchliin-lavlagaa-(irgen)",
         group : "Гаалийн ерөнхий газар",
     },
     {
@@ -221,42 +221,42 @@ export const data = [
     },
     {
         name: "Тендерийн тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/tyendyeriin-todorkhoilolt",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Иргэнд олгох тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgend-olgokh-todorkhoilolt",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Жолоочийн лавлагаа, мэдээлэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/joloochiin-lavlagaa-medeelel",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
         name: "Жолоодох эрхийн оноо",
-        link:"",
+        link:"https://e-mongolia.mn/service/joloodokh-erkhiin-onoo",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
         name: "Галт зэвсэг эзэмших, өмчлөх эрхийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/galt-zevseg-ezemshikh-umchlukh-erkhiin-lavlagaa",
         group : "Цагдаагийн ерөнхий газар",
     }, 
     {
         name: "Иргэний эрүүгийн хариуцлага хүлээж байгаа эсэх тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-eruugiin-khariutslaga-khuleej-baigaa-esekh-tukhai-todorkhoilolt",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
         name: "Иргэний эрүүгийн хариуцлага хүлээж байгаа эсэх тодорхойлолт (англи)",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-eruugiin-khariutslaga-khuleej-baigaa-esekh-todorkhoilolt-(angli)",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
         name: "Иргэний эрүүгийн хариуцлага хүлээж байсан эсэх тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-eruugiin-khariutslaga-khuleej-baisan-esekh-tukhai-todorkhoilolt",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
@@ -271,17 +271,17 @@ export const data = [
     },
     {
         name: "Иргэн болон харуул хамгаалалтын зориулалттай галт зэвсэг эзэмших, ашиглах, хадгалах аюулгүй ажиллагааны сургалтад хамрагдсан тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgen-bolon-kharuul-khamgaalaltyn-zoriulalttai-galt-zevseg-ezemshikh-ashiglakh-khadgalakh-ayuulgui-ajillagaany-surgaltad-khamragdsan-todorkhoilolt",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
         name: "Шүүхийн шийдвэрээр бусдад төлбөргүй эсэх тодорхойлолт /иргэн/",
-        link:"",
+        link:"https://e-mongolia.mn/service/shuukhiin-shiidvereer-busdad-tulburgui-esekh-todorkhoilolt-(irgen)",
         group : "Шүүхийн шийдвэр гүйцэтгэх ерөнхий газар",
     },
     {
         name: "Шүүхийн шийдвэрээр бусдад төлбөргүй эсэх тодорхойлолт /иргэн/ англи",
-        link:"",
+        link:"https://e-mongolia.mn/service/shuukhiin-shiidvereer-busdad-tulburgui-esekh-todorkhoilolt-(irgen)-(angli)",
         group : "Шүүхийн шийдвэр гүйцэтгэх ерөнхий газар",
     },
     {
@@ -291,17 +291,17 @@ export const data = [
     },
     {
         name: "Суллагдсан тухай тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/sullagdsan-tukhai-todorkhoilolt",
         group : "Шүүхийн шийдвэр гүйцэтгэх ерөнхий газар",
     },
     {
         name: "Нийгмийн даатгалын шимтгэл төлөлтийн талаарх тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/niigmiin-daatgalyn-shimtgel-tulultiin-talaarkh-todorkhoilolt",
         group : "Нийгмийн даатгалын ерөнхий газар",
     },
     {
         name: "Иргэн (Даатгуулагчид) нийгмийн даатгалын сангаас тэтгэвэр авах эрх үүсээгүй тухай тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgen-(daatguulagch)-d-niigmiin-daatgalyn-sangaas-tetgever-avakh-erkh-uuseegui-tukhai-todorkhoilolt",
         group : "Нийгмийн даатгалын ерөнхий газар",
     },
     {
@@ -311,47 +311,47 @@ export const data = [
     },
     {
         name: "Тэтгэврийн даатгалын шимтгэлийн нэрийн дансны лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/tetgevriin-daatgalyn-shimtgeliin-neriin-dansny-lavlagaa",
         group : "Нийгмийн даатгалын ерөнхий газар",
     },
      {
         name: "Нийгмийн даатгалын шимтгэл төлөлтийн талаарх тодорхойлолт (англи)",
-        link:"",
+        link:"https://e-mongolia.mn/service/niigmiin-daatgalyn-shimtgel--tulultiin-talaarkh-todorkhoilolt-(angli)",
         group : "Нийгмийн даатгалын ерөнхий газар",
     },
     {
         name: "Өндөр насны тэтгэвэр тогтоолтын хуудас",
-        link:"",
+        link:"https://e-mongolia.mn/service/undur-nasny-tetgever-togtooltyn-khuudas",
         group : "Нийгмийн даатгалын ерөнхий газар",
     },
     {
         name: "Тэжээгчээ алдсаны тэтгэвэр тогтоолын хуудас",
-        link:"",
+        link:"https://e-mongolia.mn/service/tejeegchee-aldsany-tetgever-togtooltyn-khuudas",
         group : "Нийгмийн даатгалын ерөнхий газар",
     }, 
       {
         name: "Хөдөлмөрийн чадвар алдсаны тэтгэвэр тогтоолтын хуудас",
-        link:"",
+        link:"https://e-mongolia.mn/service/khudulmuriin-chadvar-aldsany-tetgever-togtooltyn-khuudas",
         group : "Нийгмийн даатгалын ерөнхий газар",
     },
     {
         name: "Эрүүл мэндийн даатгалын төлөлт шалгах",
-        link:"",
+        link:"https://e-mongolia.mn/service/eruul-mendiin-daatgalyn-tulult-shalgakh",
         group : "Нийгмийн даатгалын ерөнхий газар",
     },
     {
         name: "Нийгмийн халамжийн дэмжлэг, туслалцаа зайлшгүй шаардлагатай өрхийн гишүүн иргэний тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/niigmiin-khalamjiin-demjleg-tuslaltsaa-zailshgui-shaardlagatai-urkhiin-gishuun-irgenii-todorkhoilolt",
         group : "Халамж, үйлчилгээний ерөнхий газар",
     },
     {
         name: "Хүнс тэжээлийн дэмжлэг үзүүлэх шаардлагатай өрхийн тодорхойлолт (Нийслэл)",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuns-tejeeliin-demjleg-uzuulekh-shaardlagatai-urkhiin-todorkhoilolt-(niislel)",
         group : "Халамж, үйлчилгээний ерөнхий газар",
     },
     {
         name: "Хүнс тэжээлийн дэмжлэг үзүүлэх шаардлагатай өрхийн тодорхойлолт (Орон нутаг)",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuns-tejeeliin-demjleg-uzuulekh-shaardlagatai-urkhiin-todorkhoilolt-(oron-nutag)",
         group : "Халамж, үйлчилгээний ерөнхий газар",
     },
     {
@@ -361,116 +361,116 @@ export const data = [
     },
     {
         name: "Хүүхдийн мөнгө олгож байгаа эсэх тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuukhdiin-mungund-khamragdakh-esekhiig-shalgakh",
         group : "Халамж, үйлчилгээний ерөнхий газар",
     },
     {
         name: "Бүрэн дунд боловсролын гэрчилгээний лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/buren-dund-bolovsrolyn-unemlekhiin-todorkhoilolt",
         group : "Боловсрол, соёл, шинжлэх ухааны яам",
     }, {
         name: "Суурь боловсролын гэрчилгээний лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/suuri-bolovsrolyn-gerchilgeenii-todorkhoilolt",
         group : "Боловсрол, соёл, шинжлэх ухааны яам",
     },
     {
         name: "Дээд боловсролын сургалтын байгууллагын дипломын тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/deed-bolovsrolyn-surgaltyn-baiguullagyn-diplomyn-todorkhoilolt",
         group : "Боловсрол, соёл, шинжлэх ухааны яам",
     },
     {
         name: "Элсэлтийн ерөнхий шалгалтын лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/elseltiin-yerunkhii-shalgaltyn-lavlagaa",
         group : "Боловсрол, соёл, шинжлэх ухааны яам",
     },
     {
         name: "Газрын кадастрын нэгж талбарын тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/gazryn-kadastryn-negj-talbaryn-todorkhoilolt",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },  
     {
         name: "Газар эзэмших эрхийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/gazar-ezemshikh-erkhiin-lavlagaa",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },
     {
         name: "Газар өмчлөх, эзэмших, ашиглах эрхийн шүүхийн шийдвэртэй эсэх лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/niislel-sum-duurgiin-tukhain-jiliin-gazar-zokhion-baiguulaltyn-tuluvluguund-gazar-ezemshikh-ashiglakh-umchlukh-sanalaa-ugukh",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },
     {
         name: "Кадастрын зураг хэвлэж авах",
-        link:"",
+        link:"https://e-mongolia.mn/service/kadastryn-zurag-khevlej-avakh",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },
     {
         name: "Газрын төлбөр тооцоо нийлсэн акт",
-        link:"",
+        link:"https://e-mongolia.mn/service/gazryn-tulbur-tootsoo-niilsen-akt",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },
     {
         name: "Иргэн, хуулийн этгээдэд газар эзэмшүүлэх гэрээний лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/khun-khuuliin-etgeeded-gazar-ezemshuulekh-gereenii-lavlagaa",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },
     {
         name: "Нэгж талбарын дуудлага худалдааны анхны үнийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/negj-talbaryn-duudlaga-khudaldaany-ankhny-uniin-lavlagaa",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },
     {
         name: "Нэгж талбарын үнэлгээний лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/negj-talbaryn-unelgeenii-lavlagaa",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },
     {
         name: "Газар эзэмших эрхийн гэрчилгээний лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/gazar-ezemshikh-erkhiin-gerchilgeenii-lavlagaa",
         group : "Газрын харилцаа, геодези, зураг зүйн газар",
     },
     {
         name: "Вакцины гэрчилгээ",
-        link:"",
+        link:"https://e-mongolia.mn/service/vaktsiny-gerchilgee",
         group : "Эрүүл мэндийн яам",
     },
     {
         name: "Олон улсын аяллын эрүүл мэндийн гэрчилгээ - International Travel Health Certificate",
-        link:"",
+        link:"https://e-mongolia.mn/service/olon-ulsyn-ayallyn-eruul-mendiin-gerchilgee-international-travel-health-certificate",
         group : "Эрүүл мэндийн яам",
     },
     {
         name: "Олон улсын аяллын эрүүл мэндийн гэрчилгээ - International Travel Health Certificate (албан болон дипломат паспортоор)",
-        link:"",
+        link:"https://e-mongolia.mn/service/olon-ulsyn-ayallyn-eruul-mendiin-gerchilgee-international-travel-health-certificate-",
         group : "Эрүүл мэндийн яам",
     },
     {
         name: "Олон улсын аяллын эрүүл мэндийн гэрчилгээ - International Travel Health Certificate (гадаад иргэнд)",
-        link:"",
+        link:"https://e-mongolia.mn/service/olon-ulsyn-ayallyn-eruul-mendiin-gerchilgee-international-travel-health-certificate-",
         group : "Эрүүл мэндийн яам",
     },
     {
         name: "Эмнэлгийн магадалгаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/emnelgiin-magadlagaa",
         group : "Эрүүл мэндийн яам",
     },
     {
         name: "Шинжилгээний хариу",
-        link:"",
+        link:"https://e-mongolia.mn/service/shinjilgeenii-khariu-avakh",
         group : "Эрүүл мэндийн яам",
     },
     {
         name: "Цусны бүлгийн мэдээлэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/tsusny-bulgiin-medeelel",
         group : "Эрүүл мэндийн яам",
     },
     {
         name: "Ковид-19 шинжилгээний хариу",
-        link:"",
+        link:"https://e-mongolia.mn/service/kovid-19-iin-shinjilgeenii-khariu",
         group : "Эрүүл мэндийн яам",
     },
     {
         name: "Зээлийн мэдээллийн лавлагаа",
-        link:"",
+        link:"https://e-mongolia.mn/service/zeeliin-medeelliin-lavlagaa-%E2%80%93-burenskor-(irgen)",
         group : "Монгол банк",
     },
 
@@ -483,247 +483,247 @@ export const data = [
 export const oneStepService = [
     {
         name: "Аж ахуй нэгжийн орлогын албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/aj-akhui-negjiin-orlogyn-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Суутгагчийн хуулийн этгээдэд олгосон орлогоос суутгасан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/suutgagchiin-khuuliin-etgeeded-olgoson-orlogoos-suutgasan-tatvar-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Дотоодын бараа, үйлчилгээний суутгасан НӨАТ",
-        link:"",
+        link:"https://e-mongolia.mn/service/dotoodyn-baraa-uilchilgeenii-suutgasan-nuat-2",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Оршин суугч бус этгээдээс суутгасан НӨАТ",
-        link:"",
+        link:"https://e-mongolia.mn/service/orshin-suugch-bus-etgeedees-suutgasan-nuat",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Дотоодын архины онцгой албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/dotoodyn-arkhiny-ontsgoi-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Дотоодын пивоны онцгой албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/dotoodyn-pivony-ontsgoi-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Дотоодын дарсны онцгой албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/dotoodyn-darsny-ontsgoi-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Дотоодын тамхины онцгой албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/dotoodyn-tamkhiny-ontsgoi-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Дотоодын спиртийн онцгой албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/dotoodyn-spirtiin-ontsgoi-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Дотоодын шимийн архины онцгой албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/dotoodyn-shimiin-arkhiny-ontsgoi-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Улсын тэмдэгтийн хураамж",
-        link:"",
+        link:"https://e-mongolia.mn/service/ulsyn-temdegtiin-khuraamj-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Ашигт малтмалын нөөц ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/ashigt-maltmalyn-nuuts-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Өсөн нэмэгдэх нөөц ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/usun-nemegdekh-nuuts-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Үүсмэл ордын нөөц ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/uusmel-ordyn-nuuts-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Стратегийн ач холбогдол бүхий ордын АМНАТ-ын тусгай төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/stratyegiin-ach-kholbogdol-bukhii-ordyn-amnat-yn-tusgai-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Суутгасан ашигт малтмалын нөөц ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/suutgasan-ashigt-maltmalyn-nuuts-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Арилжааны банкны суутгасан АМНАТ",
-        link:"",
+        link:"https://e-mongolia.mn/service/ariljaany-bankny-suutgasan-amnat",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Автын агаарын бохирдлын төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/avtyn-agaaryn-bokhirdlyn-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Нүүрсний агаарын бохирдлын төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/nuursnii-agaaryn-bokhirdlyn-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Органик уусгагчийн агаарын бохирдлын төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/organik-uusgagchiin-agaaryn-bokhirdlyn-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Томоохон эх үүсвэрийн агаарын бохирдлын төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/tomookhon-ekh-uusveriin-agaaryn-bokhirdlyn-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Ус бохирдуулсны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/us-bokhirduulsny-tatvar-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Цалин, хөдөлмөрийн хөлс, тэдгээртэй адилтгах орлогоос суутгасан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/tsalin-khudulmuriin-khuls-tedgeertei-adiltgakh-orlogoos-suutgasan-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Үл хөдлөх эд хөрөнгийн албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/ul-khudlukh-ed-khurungiin-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Газрын үл хөдлөх хөрөнгийн албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/gazryn-ul-khudlukh-khurungiin-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Газрын төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/gazryn-tulbur-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Нийслэл хотын албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/niisleliin-khotyn-alban-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Үйлдвэрлэл, үйлчилгээний зориулалтаар ашигласны усны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/uildverlel-uilchilgeenii-zoriulaltaar-ashiglasan-usny-tulbur-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Зам ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/zam-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Авто тээвэр, өөрөө явагч хэрэгслийн татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/avtoteever-uuruu-yavagch-kheregsliin-tatvar",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Хувь хүний орлогын албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuvi-khunii-orlogyn-tatvar-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Мөнгөн хадгаламжийн хүүгийн орлогоос суутгасан албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/mungun-khadgalamjiin-khuu-orlogoos-suutgasan-alban-tatvar-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Иргэний үл хөдлөх, эд хөрөнгө борлуулсны албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-ul-khudlukh-ed-khurungu-borluulsny-alban-tatvar-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Галт зэвсгийн албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/galt-zevsgiin-alban-tatvar-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Ойн нөөц ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/oin-nuuts-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Ан амьтны нөөц ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/an-amitny-nuuts-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Байгалийн ургамал нөөц ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/baigaliin-urgamal-nuuts-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Ахуйн хэрэглээний ус, рашаан ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/akhuin-kheregleenii-us-rashaan-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Түгээмэл тархацтай ашигт малтмалын нөөц ашигласны төлбөр",
-        link:"",
+        link:"https://e-mongolia.mn/service/tugeemel-tarkhatstai-ashigt-maltmalyn-nuuts-ashiglasny-tulbur",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Хог хаягдал үйлчилгээний хураамж",
-        link:"",
+        link:"https://e-mongolia.mn/service/khog-khayagdlyn-uilchilgeenii-khuraamj-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Татварын торгууль",
-        link:"",
+        link:"https://e-mongolia.mn/service/tatvaryn-torguuli-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Татварын алданги",
-        link:"",
+        link:"https://e-mongolia.mn/service/tatvaryn-aldangi-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Газар эзэмших, ашиглах эрх борлуулсны албан татвар",
-        link:"",
+        link:"https://e-mongolia.mn/service/gazar-ezemshikh-ashiglakh-erkh-borluulsny-alban-tatvar-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Авто тээврийн хэрэгсэл болон жолоочийн торгуулийн төлбөр төлөх",
-        link:"",
+        link:"https://e-mongolia.mn/service/avto-teevriin-kheregsel-bolon-joloochiin-torguuliin-tulbur-tulukh",
         group : "Татварын ерөнхий газар",
     },
     {
         name: "Жирэмсний болон амаржсаны тэтгэмж авах хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/jiremsnii-bolon-amarjsany-tetgemj-avakh-khuselt",
         group : "Хөдөлмөр, нийгмийн хамгааллын яам",
     },
     {
         name: "Хөдөлмөрийн чадвар түр алдсаны тэтгэмж авах хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/khudulmuriin-chadvar-tur-aldsany-tetgemj-avakh-khuselt",
         group : "Хөдөлмөр, нийгмийн хамгааллын яам",
     },
     {
         name: "Ажилгүйдлийн тэтгэмж авах хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/ajilguidliin-tetgemj-avakh-khuselt",
         group : "Хөдөлмөр, нийгмийн хамгааллын яам",
     },
     {
         name: "НДШ-ийн 50 хувийн буцаан олголт авах дансны дугаар холбох, засах",
-        link:"",
+        link:"https://e-mongolia.mn/service/niigmiin-daatgalyn-shimtgeliin-50-khuviin-butsaan-olgolt-avakh-dansny-dugaar-kholbokh-zasakh",
         group : "Хөдөлмөр, нийгмийн хамгааллын яам",
     },
     {
         name: "Хүүхдийн мөнгө авах",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuukhdiin-mungund-khamragdakh-esekhiig-shalgakh",
         group : "Хөдөлмөр, нийгмийн хамгааллын яам",
     },
     {
@@ -733,7 +733,7 @@ export const oneStepService = [
     },
     {
         name: "Нийслэлийн цэцэрлэгт хамрагдах хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/niisleliin-tsetserlegt-khamragdakh-khuseltiin-ur-dun",
         group : "Боловсрол, соёл шинжлэх ухааны яам",
     },
     {
@@ -743,7 +743,7 @@ export const oneStepService = [
     },
     {
         name: "Эмнэлэгт цаг захиалах",
-        link:"",
+        link:"https://e-mongolia.mn/service/emnelegt-tsag-avakh",
         group : "Эрүүл мэндийн яам",
     },
     {
@@ -753,7 +753,7 @@ export const oneStepService = [
     },
     {
         name: "Орон нутгийн хөгжлийн сангийн хөрөнгөөр хэрэгжүүлэх төсөл хөтөлбөр, арга хэмжээнд иргэдийн санал асуулга",
-        link:"",
+        link:"https://e-mongolia.mn/service/oron-nutgiin-khugjliin-sangiin-khurunguur-kheregjuulekh-tusul-khutulbur-arga-khemjeend-irgediin-sanal-asuulga",
         group : "Орон нутгийн хөгжлийн сан",
     },
 ];
@@ -763,127 +763,127 @@ export const manyStepService = [
 
     {
         name: "Гэрлэсний гэрчилгээ дахин авах",
-        link:"",
+        link:"https://e-mongolia.mn/service/gerlesnii-gerchilgee-dakhin-avakh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Гадаад паспорт дахин захиалах",
-        link:"",
+        link:"https://e-mongolia.mn/service/gadaad-pasport-dakhin-zakhialakh-(gemteesen-bolon-khuchintei-baidlyg-aldagduulsan)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Иргэний үнэмлэх дахин авах",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-unemlekh-dakhin-avakh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
-        name: "Гэрлэлт дуусгавар болсны бүртгэл",
+        name: "Гэрлэлт дhttps://e-mongolia.mn/service/gerlelt-duusgavar-bolsny-burtgelусгавар болсны бүртгэл",
         link:"",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Нас барсны бүртгэлийн хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/nas-barsny-burtgeliin-khuselt",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Ургийн овог, эцэг (эх)-ийн нэр, өөрийн нэр өөрчилсний бүртгэлийн хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/urgiin-ovog-etseg-(ekh)-iin-ner-uuriin-ner-uurchilsnii-burtgeliin-khuselt",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хүйс өөрчлөгдсний бүртгэлийн хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuis-uurchlugdsunii-burtgeliin-khuselt",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Төрсний бүртгэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/tursnii-burtgeliin-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Төрсний гэрчилгээ дахин авах",
-        link:"",
+        link:"https://e-mongolia.mn/service/tursnii-gerchilgee-dakhin-avakh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Эцэг (эх) тогтоосны бүртгэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/etseg-(ekh)-togtoosny-burtgel",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Үрчилсний бүртгэлийн хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/urchilsnii-burtgeliin-khuselt",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Аймгаас аймагт шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(aimgaas-aimagt)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Аймгаас нийслэлд шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(aimgaas-niisleld)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Баг дотроо шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(bag-dotroo)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Баг хооронд шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(bag-khoorond)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Дүүрэг хооронд шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(duureg-khoorond)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Нийслэлээс аймагт шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(niislelees-aimagt)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Сум хооронд шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(sum-khoorond)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хороон дотроо шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(khoroon-dotroo)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хорооноос хороонд шилжилт хөдөлгөөний бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/irgenii-shiljilt-khudulguunii-burtgel-(khoroonoos-khoroond)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Гүйцэтгэх удирдлага өөрчлөх (гүйцэтгэх захирал, дарга, тэргүүн)",
-        link:"",
+        link:"https://e-mongolia.mn/service/guitsetgekh-udirdlaga-uurchlukh-(guitsetgekh-zakhiral-darga-terguun)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Салбар төлөөлөгчийн газар шинээр бүртгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/bank-bus-sankhuugiin-salbar-tuluulugchiin-gazar-negj-neekh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Улсын бүртгэлийн гэрчилгээ дахин олгох",
-        link:"",
+        link:"https://e-mongolia.mn/service/ulsyn-burtgeliin-gerchilgee-dakhin-olgokh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хуулийн этгээдийн нэр өөрчлөх",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuuliin-etgeediin-ner-uurchlukh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Хуулийн этгээдийн хаяг өөрчлөх",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuuliin-etgeediin-ner-uurchlukh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     }, 
     {
@@ -893,12 +893,12 @@ export const manyStepService = [
     },
     {
         name: "Үйл ажиллагааны чиглэл өөрчлөх (нэмэх, хасах)",
-        link:"",
+        link:"https://e-mongolia.mn/service/uil-ajillagaany-chiglel-uurchlukh-(nemekh-khasakh)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Усан замын тээврийн хэрэгсэл, агаарын хөлгийн санхүүгийн түрээс (лизинг)-н гэрээний эрхийн бүртгэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/usan-zamyn-teevriin-kheregsel-agaaryn-khulgiin-sankhuugiin-turees-(lizing)-n-gereenii-erkhiin-burtgel",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
@@ -928,17 +928,17 @@ export const manyStepService = [
     },
     {
         name: "Сервитутын бүртгэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/syervitutyn-burtgel",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Узуфруктын бүртгэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/uzufruktyn-burtgel",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Батлан даалтын гэрээг улсын бүртгэлд бүртгүүлэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/batlan-daaltyn-gereeg-ulsyn-burtgeld-burtguulekh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
