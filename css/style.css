@@ -298,7 +298,7 @@ body .theme-button-one:hover {background:#0072CC; }
 }
 .header-one .top-header .address-wrapper .address:first-child {margin-right: 35px;}
 /*--------------------------- Theme Header Two  ---------------------*/
-.header-two .top-header {background: #0072CC;padding: 12px 0;}
+.header-two .top-header {background: #0072CC;padding-top: 16px; height: 64px !important;align-items: center;}
 .header-two .top-header .left-widget li {display: inline-block;color: #fff;font-size: 16px;}
 #polyglotLanguageSwitcher {margin-left:25px;}
 #polyglotLanguageSwitcher span.trigger:before {
@@ -329,7 +329,7 @@ body .theme-button-one:hover {background:#0072CC; }
   color: #ccd1dd;
   margin: 0 7px;
 }
-.theme-menu-wrapper .right-widget .social-icon li a:hover {color: #fff;}
+.theme-menu-wrapper .right-widget .social-icon li a:hover {color: #0072CC;}
 .theme-menu-wrapper .right-widget .cart-icon {
   margin-left: 30px;
   width: 60px;
@@ -2153,7 +2153,68 @@ overflow: hidden;
 .title-style{
   font-size: 16px;
     font-weight: 600;
-    padding: 10px 10px ;
+    padding-left: 10px;
     text-transform: uppercase;
     color: #002468;
+}
+
+
+
+.logoCompany{
+  display: block;
+  height: 32px;
+  width: 32px;
+}
+
+.header_a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0072CC;
+  color: white;
+  padding: 20px;
+}
+
+/* Styles for the logo */
+.logo_a img { 
+  width: 50px;
+  height: auto;
+}
+
+/* Styles for the navigation links */
+.nav_a {
+  display: flex;
+}
+.container .row .footer-list .list-group .list-group-item a{ 
+  display: block; 
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.container .row .footer-list .list-group-item{
+  border: none;
+  margin: 0px;
+  padding: 4px;
+}
+
+
+.list-group{
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.list-group .active{
+  background-color: #184D8F;
+  
+}
+.list-group .a{
+  display: block; 
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
 }
