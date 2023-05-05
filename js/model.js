@@ -1,6 +1,6 @@
 import {Service, LeftMenu} from './Service.js'
 import {hash,data, 
-    oneStepService,oneStepLeftMenu,manyStepService,
+    oneStepService,oneStepLeftMenu,manyStepService,manyStepLeftMenu,
     dataLeftMenu} from './data.js'
 export default class Model {
     #items = [];
@@ -16,7 +16,7 @@ export default class Model {
             console.log('many ')
 
             manyStepService.forEach(service=> this.#items.push(new Service(service.name, service.link, service.group)));
-            manyStepService.forEach(menu=> this.#leftNavs.push(new LeftMenu(menu)))
+            manyStepLeftMenu.forEach(menu=> this.#leftNavs.push(new LeftMenu(menu)))
 
         }else if(id == hash.onestepService){
             console.log('one  ')
@@ -27,7 +27,7 @@ export default class Model {
         }else{
             console.log('all');
             let all = [...data, ...manyStepService, ...oneStepService];
-            let allLeftNavs = [...oneStepLeftMenu,...manyStepService,...dataLeftMenu]
+            let allLeftNavs = [...oneStepLeftMenu,...manyStepLeftMenu,...dataLeftMenu]
             all.forEach(service=> this.#items.push(new Service(service.name, service.link, service.group)));
             allLeftNavs.forEach(menu=> this.#leftNavs.push(new LeftMenu(menu)))
 

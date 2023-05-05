@@ -758,15 +758,11 @@ export const oneStepService = [
     },
 ];
 
-export const manyStepService = [
-
-
-    {
+export const manyStepService = [{
         name: "Гэрлэсний гэрчилгээ дахин авах",
         link:"https://e-mongolia.mn/service/gerlesnii-gerchilgee-dakhin-avakh",
         group : "Улсын бүртгэлийн ерөнхий газар",
-    },
-    {
+    },{
         name: "Гадаад паспорт дахин захиалах",
         link:"https://e-mongolia.mn/service/gadaad-pasport-dakhin-zakhialakh-(gemteesen-bolon-khuchintei-baidlyg-aldagduulsan)",
         group : "Улсын бүртгэлийн ерөнхий газар",
@@ -777,8 +773,8 @@ export const manyStepService = [
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
-        name: "Гэрлэлт дhttps://e-mongolia.mn/service/gerlelt-duusgavar-bolsny-burtgelусгавар болсны бүртгэл",
-        link:"",
+        name: "Гэрлэлт дуусгавар болсны бүртгэл",
+        link:"https://e-mongolia.mn/service/gerlelt-duusgavar-bolsny-burtgel",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
@@ -2126,7 +2122,7 @@ export const hash={
     manystepService : "olon-shatlalt-uilchilgee",
     onestepService : "neg-alhamt-uilchilgee",
 }
-export const  menuStepLeftMenu = [
+export const  manyStepLeftMenu = [
     "Улсын бүртгэлийн ерөнхий газар",
     "Авто тээврийн үйлчилгээ",
     "Цагдаагийн ерөнхий газар",

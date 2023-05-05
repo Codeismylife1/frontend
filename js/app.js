@@ -1,5 +1,4 @@
 import Model from './model.js'
-import {} from './data.js'
 
 
 

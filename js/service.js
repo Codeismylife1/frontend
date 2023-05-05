@@ -1,6 +1,5 @@
 
-
-export  class Service {
+export class Service {
     constructor(name,link,group){
         this.link = link;
         this.name=name;
