@@ -2191,15 +2191,24 @@ overflow: hidden;
   align-items: flex-start;
   text-overflow: ellipsis;
   overflow: hidden;
+  padding-left: 8px;
   white-space: nowrap;
+ 
 }
 
 .container .row .footer-list .list-group-item{
-  border: none;
-  margin: 0px;
-  padding: 4px;
-}
+  border-radius: 8px;
+  display: block; 
+  box-shadow: 5px 5px 8px #f0ebf5d5;
 
+}
+.container .row .footer-list .list-group-item.active{
+  border-radius: 8px;
+  border: none;
+  display: block; 
+  box-shadow: 5px 5px 8px #001A57;
+
+}
 
 .list-group{
   margin-top: 20px;

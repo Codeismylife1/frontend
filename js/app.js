@@ -80,16 +80,20 @@ const renderLeftMenus=(leftMenus)=>{
     elements.leftNavList.insertAdjacentHTML('beforeend', html);
 }
 
-const renderOneMenu = menu=> `<li class="list-group-item leftNavMenu list-group-item-action" data-catname=${menu.name}>${menu.name}</li>`;
+const renderOneMenu = menu=> `<li class="list-group-item py-2 pb-2 leftNavMenu list-group-item-action" data-catname=${menu.name}>${menu.name}</li>`;
 
 ["load","hashchange"].forEach(event=>window.addEventListener(event,controlService))
 
 
 const connectClickEvent = ()=>{
-    Array.from(document.querySelectorAll('.leftNavMenu')).forEach(
+    const links = Array.from(document.querySelectorAll('.leftNavMenu'));
+    links.forEach(
         el=> el.addEventListener('click', e => {
             // Клик хийсэн li элементийн data-catname аттрибутыг шүүж гаргаж авах
             const id =  e.target.closest(".leftNavMenu").dataset.catname;
+            links.forEach(el=> el.classList.remove('active'))
+
+            e.target.closest(".leftNavMenu").classList.add("active");
             // Олдсон категорид хамаарах үйлчилгээг шүүж гаргах.
             clearServiceList();
             elements.serviceList.insertAdjacentHTML('afterbegin',`<p class='font-weight-bold text-uppercase mt-4 mb-4'>${e.target.innerText}</p>`)
