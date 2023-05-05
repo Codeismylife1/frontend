@@ -169,7 +169,7 @@
  button {border:none;outline: none;box-shadow: none;display: block; padding: 0;cursor: pointer;}
  button:focus {outline: none;}
  input,textarea {outline: none; box-shadow: none;transition: all 0.3s ease-in-out;}
-.section-spacing {margin-bottom: 120px;}
+.section-spacing {margin-bottom: 60px;}
 .m-top0 {margin-top: 0 !important;}
 .m-bottom0 {margin-bottom: 0 !important;}
 .p-bottm0 {padding-bottom: 0 !important;}
@@ -2001,7 +2001,7 @@ text-align: center;
 }
 .shop-details .related-product {margin-bottom: 70px;}
 /*---------------------- Faq Page ------------------*/
-.faq-page .faq-panel {margin-top: 90px;}
+.faq-page .faq-panel {margin-top: 60px;}
 .faq-page .faq-panel .panel-group {
   border:1px solid #efefef;
   border-bottom: none;
