@@ -222,7 +222,8 @@ body .theme-button-one {
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #fff;
+
+  color: #001A57; 
   border-radius: 5px;
   padding: 0 35px;
 }
