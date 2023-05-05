@@ -943,36 +943,36 @@ export const manyStepService = [
     },
     {
         name: "Бусдын газар дээр барилга байгууламж барих эрхийг улсын бүртгэлд бүртгүүлэх хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/busdyn-gazar-deer-barilga-baiguulamj-barikh-erkhiig-ulsyn-burtgeld-burtguulekh-khuselt",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Түрээсийн бүртгэл",
-        link:"",
+        link:"https://e-mongolia.mn/service/tureesiin-burtgel",
         group : "Улсын бүртгэлийн ерөнхий газар",
     }, {
         name: "Төрөөс үнэгүй хувьчилсан газрын өмчлөх эрхийг баталгаажуулах",
-        link:"",
+        link:"https://e-mongolia.mn/service/ed-khurungu-umchlukh-erkhiin-ankhny-burtgel-(turuus-unegui-khuvichilsan-gazryn-umchlukh-erkhiig-batalgaajuulakh)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Төрөөс үнэгүй хувьчилсан орон сууц өмчлөх эрхийг баталгаажуулах",
-        link:"",
+        link:"https://e-mongolia.mn/service/ed-khurungu-umchlukh-erkhiin-ankhny-burtgel-(turuus-unegui-khuvichilsan-gazryn-umchlukh-erkhiig-batalgaajuulakh)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Эд хөрөнгө өмчлөх эрхийн худалдах, худалдан авах гэрээг улсын бүртгэлд бүртгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/ed-khurungu-umchlukh-erkhiin-khudaldakh-khudaldan-avakh-gereeg-ulsyn-burtgeld-burtgekh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Регистрийн дугаар өөрчлөгдсөнийг бүртгүүлэх хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/ryegistriin-dugaar-uurchlugdsuniig-burtguulekh-khuselt",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Нөхөн бүртгэл хийлгэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/nukhun-burtgel-khiilgekh",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
 
@@ -983,17 +983,17 @@ export const manyStepService = [
     },
     {
         name: "Хуулийн этгээд татан буулгах тухай мэдэгдэх",
-        link:"",
+        link:"https://e-mongolia.mn/service/khuuliin-etgeed-tatan-buugdaj-ulsyn-burtgelees-khasagdsan-lavlagaa",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Эд хөрөнгө өмчлөх эрхийн улсын бүртгэл (Төрөөс худалдаж авсан газрын өмчлөх эрхийг анх удаа бүртгэх)",
-        link:"",
+        link:"https://e-mongolia.mn/service/ed-khurungu-umchlukh-erkhiin-ulsyn-burtgel-(turuus-khudaldaj-avsan-gazryn-umchlukh-erkhiig-ankh-udaa-burtgekh)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Эд хөрөнгө өмчлөх эрхийн улсын бүртгэл (Бэлэглэх гэрээ)",
-        link:"",
+        link:"https://e-mongolia.mn/service/ed-khurungu-umchlukh-erkhiin-ulsyn-burtgel-(beleglekh-geree)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
@@ -1022,12 +1022,12 @@ export const manyStepService = [
     },
     {
         name: "Эд хөрөнгө өмчлөх эрхийн улсын бүртгэл /Газраас бусад ҮХЭХ-ийг анх удаа бүртгүүлэх/",
-        link:"",
+        link:"https://e-mongolia.mn/service/ed-khurungu-umchlukh-erkhiin-ulsyn-burtgel-(gazraas-busad-ukhekh-iig-ankh-udaa-burtguulekh)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
     {
         name: "Эд хөрөнгө өмчлөх эрхийн улсын бүртгэл /Арилжих гэрээ/",
-        link:"",
+        link:"https://e-mongolia.mn/service/ed-khurungu-umchlukh-erkhiin-ulsyn-burtgel-(ariljikh-geree)",
         group : "Улсын бүртгэлийн ерөнхий газар",
     },
 
@@ -1037,16 +1037,16 @@ export const manyStepService = [
         group : "Авто тээврийн үйлчилгээ",
     }, {
         name: "Авто тээврийн хэрэгслийн гэрчилгээ нөхөн олгох хүсэлт",
-        link:"",
+        link:"https://e-mongolia.mn/service/avto-teevriin-kheregsliin-gerchilgee-nukhun-olgokh-khuselt",
         group : "Авто тээврийн үйлчилгээ",
     },
     {
         name: "Авто тээврийн хэрэгслийн гэрчилгээ солих үйлчилгээ",
-        link:"",
+        link:"https://e-mongolia.mn/service/avto-teevriin-kheregsliin-gerchilgee-solikh-uilchilgee",
         group : "Авто тээврийн үйлчилгээ",
     },{
         name: "Мэргэшсэн жолоочийн үнэмлэх нөхөн олгох хүсэлт хүлээн авах",
-        link:"",
+        link:"https://e-mongolia.mn/service/mergeshsen-joloochiin-unemlekh-nukhun-olgokh-khuselt-khuleen-avakh",
         group : "Авто тээврийн үйлчилгээ",
     },
     {
@@ -1056,34 +1056,34 @@ export const manyStepService = [
     },
     {
         name: "Тээврийн хэрэгслийн шилжилт хөдөлгөөн",
-        link:"",
+        link:"https://e-mongolia.mn/service/teevriin-kheregsliin-shiljilt-khudulguun",
         group : "Авто тээврийн үйлчилгээ",
     },
     
     {
         name: "Жолооны үнэмлэх солих, нөхөн олгох",
-        link:"",
+        link:"https://e-mongolia.mn/service/joloony-unemlekh-solikh-nukhun-olgokh-",
         group : "Цагдаагийн ерөнхий газар",
     },
     
     {
         name: "Монгол Улсын олон улсын жолоодох эрхийн үнэмлэх захиалах /1 жил/",
-        link:"",
+        link:"https://e-mongolia.mn/service/mongol-ulsyn-olon-ulsyn-joloodokh-erkhiin-unemlekh-zakhialakh-(1-jil)",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
         name: "Монгол Улсын олон улсын жолоодох эрхийн үнэмлэх захиалах /2 жил/",
-        link:"",
+        link:"https://e-mongolia.mn/service/mongol-ulsyn-olon-ulsyn-joloodokh-erkhiin-unemlekh-zakhialakh-(2-jil)",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
         name: "Монгол Улсын олон улсын жолоодох эрхийн үнэмлэх захиалах /3 жил/",
-        link:"",
+        link:"https://e-mongolia.mn/service/mongol-ulsyn-olon-ulsyn-joloodokh-erkhiin-unemlekh-zakhialakh-(3-jil)",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
         name: "Дүрс бичлэгийн техник, хэрэгсэл суурилуулсан талаар цагдаагийн байгууллагын санал",
-        link:"",
+        link:"https://e-mongolia.mn/service/durs-bichlegiin-tyekhnik-kheregsel-suuriluulsan-talaar-tsagdaagiin-baiguullagyn-sanal",
         group : "Цагдаагийн ерөнхий газар",
     },
     {
@@ -1094,12 +1094,12 @@ export const manyStepService = [
 
     {
         name: "Гадаадын иргэн, уригчийн зөрчил гаргасан эсэх тухай тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/gadaadyn-irgen-urigchiin-zurchil-gargasan-esekh-tukhai-todorkhoilolt",
         group : "Гадаадын иргэн харьяатын газар",
     },
     {
         name: "Олон улсын болон гадаад улсын төрийн бус байгууллагын үйл ажиллагаа явуулах зөвшөөрөлтэй эсэх тухай тодорхойлолт",
-        link:"",
+        link:"https://e-mongolia.mn/service/olon-ulsyn-bolon-gadaad-ulsyn-turiin-bus-baiguullagyn-uil-ajillagaa-yavuulakh-zuvshuurultei-esekh-tukhai-todorkhoilolt",
         group : "Гадаадын иргэн харьяатын газар",
     },
     {
@@ -1108,27 +1108,27 @@ export const manyStepService = [
         group : "Гадаадын иргэн харьяатын газар",
     },{
     name: "Монгол улсын харьяат болсон тодорхойлолт",
-    link:"",
+    link:"https://e-mongolia.mn/service/mongol-ulsyn-khariyaataas-garsan-tukhai-todorkhoilolt",
     group : "Гадаадын иргэн харьяатын газар",
 },
 {
     name: "Монгол улсын иргэний харьяаллаа сэргээн тогтоолгосон тухай тодорхойлолт",
-    link:"",
+    link:"https://e-mongolia.mn/service/mongol-ulsyn-irgenii-khariyaallaa-sergeen-togtoolgoson-tukhai-todorkhoilolt",
     group : "Гадаадын иргэн харьяатын газар",
 },
 {
     name: "Гадаадын иргэний бүртгэл",
-    link:"",
+    link:"https://e-mongolia.mn/service/gadaadyn-irgenii-burtgel",
     group : "Гадаадын иргэн харьяатын газар",
 },
 {
     name: "Оршин суух зөвшөөрөлтэй эсэх тухай лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/gadaadyn-irgen-orshin-suukh-zuvshuurultei-esekh-tukhai-lavlagaa",
     group : "Гадаадын иргэн харьяатын газар",
 },
 {
     name: "Хасалт хийсэн тухай тодорхойлолт",
-    link:"",
+    link:"https://e-mongolia.mn/service/gadaadyn-irgenii-orshin-suukh-zuvshuurliin-khasalt-khiisen-todorkhoilolt",
     group : "Гадаадын иргэн харьяатын газар",
 },
 {
@@ -1137,52 +1137,52 @@ export const manyStepService = [
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },{
     name: "Химийн хорт болон аюултай бодис ашиглах зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-ashiglakh-zuvshuurul",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах зөвшөөрөл (1 - 10 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-ashiglakh-zuvshuurul-(1---10-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах зөвшөөрөл (1 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-ashiglakh-zuvshuurul-(1-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах зөвшөөрөл (10 - 50 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-ashiglakh-zuvshuurul-(10---50-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах зөвшөөрөл (100 - 150 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-ashiglakh-zuvshuurul-(100---150-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах зөвшөөрөл (150 - 200 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-ashiglakh-zuvshuurul-(150---200-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах зөвшөөрөл (200 тонн дээш)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-ashiglakh-zuvshuurul-(200-tonn-deesh)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах зөвшөөрөл (50 - 100 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-ashiglakh-zuvshuurul-(50---100-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах, худалдах зөвшөөрөл (1 -10 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-khudaldakh-zuvshuurul-(1---10-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах, худалдах зөвшөөрөл (1 тонн хүртэл)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-khudaldakh-zuvshuurul-(1-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },{
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах, худалдах зөвшөөрөл (10 -50 тонн)",
@@ -1191,21 +1191,21 @@ export const manyStepService = [
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах, худалдах зөвшөөрөл (100 - 150 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-khudaldakh-zuvshuurul-(100---150-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах, худалдах зөвшөөрөл (150 - 200 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-khudaldakh-zuvshuurul-(150---200-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах, худалдах зөвшөөрөл (200 тонн дээш)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-khudaldakh-zuvshuurul-(200-tonn-deesh)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },{
     name: "Химийн хорт болон аюултай бодис импортлох, ашиглах, худалдах зөвшөөрөл (50 - 100 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-importlokh-khudaldakh-zuvshuurul-(50---100-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
@@ -1244,59 +1244,59 @@ export const manyStepService = [
 },
 {
     name: "Химийн хорт болон аюултай бодис үйлдвэрлэх, ашиглах зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-uildverlekh-ashiglakh-zuvshuurul",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },{
     name: "Химийн хорт болон аюултай бодис үйлдвэрлэх, худалдах зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-uildverlekh-khudaldakh-zuvshuurul",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис хил дамжуулан тээвэрлэх зөвшөөрөл (1 - 10 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-khil-damjuulan-teeverlekh-zuvshuurul-(1---10-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис хил дамжуулан тээвэрлэх зөвшөөрөл (1 тонн хүртэл)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-khil-damjuulan-teeverlekh-zuvshuurul-(1-tonn-khurtel)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис хил дамжуулан тээвэрлэх зөвшөөрөл (10 - 50 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-khil-damjuulan-teeverlekh-zuvshuurul-(10---50-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис хил дамжуулан тээвэрлэх зөвшөөрөл (100 - 150 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-khil-damjuulan-teeverlekh-zuvshuurul-(100---150-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис хил дамжуулан тээвэрлэх зөвшөөрөл (150 - 200 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-khil-damjuulan-teeverlekh-zuvshuurul-(150---200-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис хил дамжуулан тээвэрлэх зөвшөөрөл (200 тонн дээш)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-khil-damjuulan-teeverlekh-zuvshuurul-(200-tonn-deesh)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },{
     name: "Химийн хорт болон аюултай бодис хил дамжуулан тээвэрлэх зөвшөөрөл (50 - 100 тонн)",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-khil-damjuulan-teeverlekh-zuvshuurul-(50---100-tonn)",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис худалдах зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-khudaldakh-zuvshuurul-",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 {
     name: "Химийн хорт болон аюултай бодис экспортлох зөвшөөрөл авах",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodis-eksportlokh-zuvshuurul-avakh",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },{
     name: "Химийн хорт болон аюултай бодисын тухай хуулийн 6.4-т заасан жагсаалтад орсон бодисыг импортлох, ашиглах, худалдах үйл ажиллагаа эрхлэх тусгай зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khimiin-khort-bolon-ayuultai-bodisyn-tukhai-khuuliin-6.4-t-zaasan-jagsaaltad-orson-bodisyg-importlokh-ashiglakh-khudaldakh-uil-ajillagaa-erkhlekh-tusgai-zuvshuurul",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },{
     name: "Мод үржүүлэх, ойжуулах ойг нөхөн сэргээх мэргэжлийн байгууллага (сунгах)",
@@ -1316,7 +1316,7 @@ export const manyStepService = [
 
 {
     name: "Ойд арчилгаа, цэвэрлэгээ хийх (шинээр авах)",
-    link:"",
+    link:"https://e-mongolia.mn/service/samar-jims-emiin-urgamal-tuukh-mod-beltgekh-oin-tseverlegee-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Байгаль орчин, аялал жуулчлалын яам",
 },
 
@@ -1363,12 +1363,12 @@ export const manyStepService = [
 },
 {
     name: "Инженерийн шугам сүлжээний ажил шинээр хийх, зөөх, шилжүүлэх ажлын хүрээнд авто зам сэтлэх, сүвлэх зөвшөөрлийн хүсэлт хүлээн авах",
-    link:"",
+    link:"https://e-mongolia.mn/service/injyenyeriin-shugam-suljeenii-ajil-shineer-khiikh-zuukh-shiljuulekh-ajlyn-khureend-avto-zam-setlekh-suvlekh-zuvshuurliin-khuselt-khuleen-avakh",
     group : "Нийслэлийн Авто замын хөгжлийн газар",
 },
 {
     name: "Авто замд орц гарц, зогсоолын талбай шинээр гаргах хүсэлт хүлээн авах",
-    link:"",
+    link:"https://e-mongolia.mn/service/avto-zamd-orts-garts-zogsoolyn-talbai-shineer-gargakh",
     group : "Нийслэлийн Авто замын хөгжлийн газар",
 },
 {
@@ -1378,17 +1378,17 @@ export const manyStepService = [
 },
 {
     name: "Ус ашиглах зөвшөөрөл, эрхийн бичиг олгох, гэрээ байгуулах",
-    link:"",
+    link:"https://e-mongolia.mn/service/us-ashiglakh-zuvshuurul-erkhiin-bichig-olgoj-geree-baiguulakh",
     group : "Нийслэлийн Байгаль орчны газар",
 },
 {
     name: "Элбэг ургамлыг ахуйн болон судалгаа шинжилгээний зориулалтаар ашиглах зөвшөөрлийн хүсэлт хүлээн авах",
-    link:"",
+    link:"https://e-mongolia.mn/service/(bayankhongor-aimag)-elbeg-urgamlyg-sudalgaa-shinjilgeenii-zoriulaltaar-ashiglakh-zuvshuurliin-khuselt-khuleen-avakh",
     group : "Нийслэлийн Байгаль орчны газар",
 },
 {
     name: "Хурын ус хуримтлуулж, хөв цөөрөм байгуулах, суваг шуудуу татах дүгнэлт гаргах",
-    link:"",
+    link:"https://e-mongolia.mn/service/(bayankhongor-aimag)-khuryn-us-khurimtluulj-khuv-tsuurum-baiguulakh-suvag-shuuduu-tatakh-dugnelt-gargakh",
     group : "Нийслэлийн Байгаль орчны газар",
 },
 {
@@ -1397,22 +1397,22 @@ export const manyStepService = [
     group : "Нийслэлийн Байгаль орчны газар",
 },{
     name: "Цооног өрөмдөх, худаг гаргах зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/(bayankhongor-aimag)-tsoonog-urumdukh-khudag-gargakh-zuvshuurul",
     group : "Нийслэлийн Байгаль орчны газар",
 },
 {
     name: "Байгаль орчны нөлөөллийн ерөнхий үнэлгээний дүгнэлт (Нийслэл)",
-    link:"",
+    link:"https://e-mongolia.mn/service/-(bayankhongor-aimag)-baigali-orchny-nuluulliin-yerunkhii-unelgee",
     group : "Нийслэлийн Байгаль орчны газар",
 },
 {
     name: "Ус ашиглуулах дүгнэлт гаргуулах хүсэлт хүлээн авах",
-    link:"",
+    link:"https://e-mongolia.mn/service/us-ashigluulakh-dugnelt-garguulakh-khuselt-khuleen-avakh",
     group : "Нийслэлийн Байгаль орчны газар",
 },
 {
     name: "Барилга, байгууламжийг ашиглалтад оруулах",
-    link:"",
+    link:"https://e-mongolia.mn/service/barilga-baiguulamjiig-ashiglaltad-oruulakh",
     group : "Хотын стандарт, хяналтын газар",
 },
 {
@@ -1564,44 +1564,44 @@ export const manyStepService = [
 
 {
     name: "Хөдөлмөр эрхлэлтийн лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/(bayankhongor)-khudulmur-erkhleltiin-lavlagaa",
     group : "Нийслэлийн Архивын газар",
 },
 {
     name: "Орон сууцны холбогдолтой баримтын лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/oron-suutsny-kholbogdoltoi-barimtyn-lavlagaa",
     group : "Нийслэлийн Архивын газар",
 },
 
 {
     name: "Нас барсны бүртгэлийн архивын лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/nas-barsny-burtgeliin-khuselt",
     group : "Нийслэлийн Архивын газар",
 },
 {
     name: "Хурлын тэмдэглэлийн лавлагаа олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/khurlyn-temdegleliin-lavlagaa-olgokh",
     group : "Нийслэлийн Архивын газар",
 },
 
 {
     name: "Захирамжлалын баримт бичгийн лавлагаа (захирамж, тогтоол, тушаал, шийдвэр)",
-    link:"",
+    link:"https://e-mongolia.mn/service/zakhiramjlalyn-barimt-bichgiin-lavlagaa-(zakhiramj-togtool-tushaal-shiidver)",
     group : "Нийслэлийн Архивын газар",
 },
 {
     name: "Цалингийн тодорхойлолт",
-    link:"",
+    link:"https://e-mongolia.mn/service/tsalingiin-todorkhoilolt-2",
     group : "Нийслэлийн Архивын газар",
 },
 {
     name: "Ерөнхий боловсролын сургуулийн Улсын шалгалтын нэгдсэн дүнгийн хуулбар",
-    link:"",
+    link:"https://e-mongolia.mn/service/yerunkhii-bolovsrolyn-surguuliin-ulsyn-shalgaltyn-negdsen-dungiin-khuulbar",
     group : "Нийслэлийн Архивын газар",
 },
 {
     name: "Шилжилт хөдөлгөөний холбогдолтой лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/shiljilt-khudulguunii-kholbogdoltoi-lavlagaa",
     group : "Нийслэлийн Архивын газар",
 },
 {
@@ -1611,12 +1611,12 @@ export const manyStepService = [
 },
 {
     name: "Акт дүгнэлтийн лавлагаа олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/akt-dugneltiin-lavlagaa-olgokh",
     group : "Нийслэлийн Архивын газар",
 },
 {
     name: "Нотариатын баримтын хуулбар",
-    link:"",
+    link:"https://e-mongolia.mn/service/notariatyn-barimtyn-khuulbar-2",
     group : "Нийслэлийн Архивын газар",
 },
 {
@@ -1626,278 +1626,278 @@ export const manyStepService = [
 },
 {
     name: "Өмч хувьчлалтай холбогдох баримтын лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/umch-khuvichlaltai-kholbogdokh-barimtyn-lavlagaa",
     group : "Нийслэлийн Архивын газар",
 },
 
 {
     name: "Цагаатгалын лавлагаа олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/tsagaatgalyn-lavlagaa-olgokh",
     group : "Нийслэлийн Архивын газар",
 },
 {
     name: "Ашигт малтмалын хайгуул хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/ashigt-maltmalyn-khaiguul-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Ашигт малтмал олборлолт, ашиглалтын зорилгоор Газрын тос, эрдэс баялгийн тээвэрлэлт хийх /Улс хоорондын, уртын/ зорилгоор хилийн бүс,зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/gazryn-tos-erdes-bayalgiin-teeverlelt-khiikh-/uls-khoorondyn-urtyn/-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Уул уурхайн тэсэлгээ, өрөмдлөг хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/uul-uurkhain-teselgee-urumdlug-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Нүүрс шигших угаах, баяжуулах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/nuurs-shigshikh-ugaakh-bayajuulakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Бичил уурхайн үйл ажиллагаа эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/bichil-uurkhain-uil-ajillagaa-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Түүх, угсаатны зүй, нүүдлийн соёл иргэншлийн судалгаа хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/tuukh-ugsaatny-zui-nuudliin-soyol-irgenshliin-sudalgaa-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Эрдэм шинжилгээний судалгаа хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/erdem-shinjilgeenii-sudalgaa-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Геофизикийн судалгаа хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/gyeofizikiin-sudalgaa-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Палентологийн судалгаа хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/palyentologiin-sudalgaa-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Археологийн судалгаа хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/arkhyeologiin-sudalgaa-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Газар хөдлөлтийн чичирхийллийг судлах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/gazar-khudlultiin-chichirkhiilliig-sudlakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Ургамал судлах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/urgamal-sudlakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Усны хайгуул, гедро геологийн судалгаа хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/usny-khaiguul-gyedrogyeologiin-sudalgaa-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Зэрлэг ан, амьтны /хэвлээр явагч, хөхтөн амьтан, шувуу, загас, цагаан зээр, ховордсон бусад ан амьтан судлах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/zerleg-an-amitny-(khevleer-yavagch-khukhtun-amitan--shuvuu-zagas-tsagaan-zeer-khovordson-busad-an-amitan)-sudlakh-zorilgoor",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Халдварт өвчний голомтын тандалт хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khaldvart-uvchnii-golomtyn-tandalt-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Хилийн боомт, чөлөөт бүсийн бүтээн байгуулалтын ажил хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khiliin-boomt-chuluut-busiin-buteen-baiguulaltyn-ajil-khiikh-zorilgoor",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Авто болон төмөр зам барих, засах /Замын гүүр, далан, ус зайлуулах байгууламж/ зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/avto-bolon-tumur-zam-barikh-zasakh--(zamyn-guur-dalan-us-zailuulakh-baiguulamj)-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Цахилгаан дамжуулах шугам болон шилэн кабель татах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/tsakhilgaan-damjuulakh-shugam-bolon-shilen-kabyeli-tatakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Гаалийн хяналтын талбай байгуулах, авто пүү ажиллуулах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/gaaliin-khyanaltyn-talbai-baiguulakh-avto-puu-ajilluulakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Замын хяналт, шалгалт явуулах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/zamyn-khyanalt-shalgalt-yavuulakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Замын засвар үйлчилгээ, арчлан хамгаалалтын ажил эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/zamyn-zasvar-uilchilgee-archlan-khamgaalaltyn-ajil-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Жуулчны суурин бааз, кемп ажиллуулах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/juulchny-suurin-baaz-kyemp-ajilluulakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Жуулчны түр бааз, кемп ажиллуулах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/juulchny-tur-baaz-kyemp-ajilluulakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Амрах, аялах, зугаалах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/amrakh-ayalakh-zugaalakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Мод, модон бүтээгдэхүүний үйлдвэрлэл эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/mod-modon-buteegdekhuunii-uildverlel-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Самар, жимс, эмийн ургамал түүх, мод бэлтгэх, ойн цэвэрлэгээ хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/samar-jims-emiin-urgamal-tuukh-mod-beltgekh-oin-tseverlegee-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Түгээмэл тархацтай байгалийн баялаг ашиглах /хайрга, дайрга, элс бэлтгэх/ зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/tugeemel-tarkhatstai-baigaliin-bayalag-ashiglakh-(khairga-dairga-els-beltgekh)-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Газар тариалан эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/gazar-tarialan-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Худаг, уст цэг гаргах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khudag-ust-tseg-gargakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Хадлан тэжээл хадах, бэлтгэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khadlan-tejeel-khadakh-beltgekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Мал аж ахуй /өвөлжилт хаваржилт, мал бэлчээрлүүлэх/ эрхлэх зорилгоор хилийн бүс,зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/mal-aj-akhui-(uvuljilt-khavarjilt-mal-belcheerluulekh)-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Фермерийн аж ахуй эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/fyermyeriin-aj-akhui-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Харуул, хамгаалалт зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/kharuul-khamgaalaltyn-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Ажил үйлдвэрлэл, үйлчилгээ /цайны газар, зочид буудал, халуун ус, мах махан бүтээгдэхүүний үйлдвэрлэл эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/ajil-uildverlel-uilchilgee-(tsainy-gazar-zochid-buudal-khaluun-us-makh-makhan-buteegdekhuunii)-uildverlel-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Автомашин түрээсийн үйлчилгээ эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/avtomashin-tureesiin-uilchilgee-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Катерингийн үйлчилгээ эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/katyeringiin-uilchilgee-erkhlekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Уул уурхайн тоног төхөөрөмжийн засвар, үйлчилгээ эрхлэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/uul-uurkhain-tonog-tukhuurumjiin-zasvar-uilchilgee-erkhlekh-zorilgoor",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Гаалийн бүрдүүлэлт хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/gaaliin-burduulelt-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Авто зогсоол, ажилчдын амралтын байр байгуулах, ажиллуулах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/avto-zogsool-ajilchdyn-amraltyn-bair--baiguulakh-ajilluulakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Шатахуун түгээх станц ажиллуулах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/shatakhuun-tugeekh-stants-ajilluulakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Үүрэн холбооны антени суурьлуулах, сүлжээний засвар үйлчилгээ хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/uuren-kholboony-antyeni-suuriluulakh-suljeenii-zasvar-uilchilgee-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Бүх төрлийн сургалт зохион байгуулах зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/bukh-turliin--surgalt-zokhion-baiguulakh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Геологийн болон байр зүйн зураглал хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/gyeologiin-bolon-bair-zuin-zuraglal-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Кино, нэвтрүүлгийн зураг авалт зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/kino-nevtruulgiin-zurag-avaltyn-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Нислэг үйлдэх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/nisleg-uildekh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Шашны зан үйл хийх зорилгоор хилийн бүс, зурваст нэвтрэх зөвшөөрөл",
-    link:"",
+    link:"https://e-mongolia.mn/service/shashny-zan-uil-khiikh-zorilgoor-khiliin-bus-zurvast-nevrekh-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Хилийн бүс, зурвас, боомтод нэвтрэх зөвшөөрөл - Хилийн боомтод нэвтрэх байнгын зөвшөөрөл шинээр авах, сунгах /төлбөргүй/",
-    link:"",
+    link:"https://e-mongolia.mn/service/khiliin-boomtod-nevtrekh-baingyn-zuvshuurul-shineer-avakh-sungakh",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Хилийн бүс, зурвас, боомтод нэвтрэх зөвшөөрөл - Хилийн боомтод нэвтрэх түр зөвшөөрөл /төлбөргүй/",
-    link:"",
+    link:"https://e-mongolia.mn/service/khiliin-boomtod-nevtrekh-tur-zuvshuurul",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "Улсын хилээр нэвтэрсэн иргэний лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/ulsyn-khileer-nevtersen-irgenii-lavlagaa",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "ХЦТАрхив- Ажилласан жилийн лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/khiliin-tsergiin-tuv-arkhiv---ajillasan-jiliin-lavlagaa",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "ХЦТАрхив- Тушаал, шийдвэр, бусад баримтын хуулбар авах",
-    link:"",
+    link:"https://e-mongolia.mn/service/khiliin-tsergiin-tuv-arkhiv---tushaal-shiidver-busad-barimtyn-khuulbar-avakh",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "ХЦТАрхив- Хугацаат цэргийн алба хаасан тухай лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/khiliin-tsergiin-tuv-arkhiv---khugatsaat-tsergiin-alba-khaasan-tukhai-lavlagaa",
     group : "Хилийн цэргийн ерөнхий газар",
 },{
     name: "ХЦТАрхив- Цалингийн лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/khiliin-tsergiin-tuv-arkhiv---tsalingiin-lavlagaa",
     group : "Хилийн цэргийн ерөнхий газар",
 },
 {
     name: "Шинэ баригдах барилгад цэвэр, бохир усны техникийн нөхцөл олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/shine-barigdakh-barilgad-tsever-bokhir-usny-tyekhnikiin-nukhtsul-olgokh",
     group : "Ус сувгийн удирдах газар",
 },
 {
     name: "Гэр хорооллын шугамаас цэвэр, бохир усны техникийн нөхцөл олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/ger-khoroollyn-shugamnaas-tsever-bokhir-usny-tyekhnikiin-nukhtsul-olgokh",
     group : "Ус сувгийн удирдах газар",
 },
 {
     name: "Цэвэр, бохир усны шугамын тодруулга хийх",
-    link:"",
+    link:"https://e-mongolia.mn/service/tsever-bokhir-usny-shugamyn-todruulga-khiikh",
     group : "Ус сувгийн удирдах газар",
 },{
     name: "Хуучин барилгад цэвэр, бохир усны техникийн нөхцөл олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/khuuchin-barilgad-tsever-bokhir-usny-tyekhnikiin-nukhtsul-olgokh",
     group : "Ус сувгийн удирдах газар",
 },{
     name: "Усны техникийн нөхцөл сунгах",
-    link:"",
+    link:"https://e-mongolia.mn/service/usny-tyekhnikiin-nukhtsul-sungakh",
     group : "Ус сувгийн удирдах газар",
 },{
     name: "Цэвэр бохир усны шугамын холбох цэг өөрчлөх зөвшөөрөл олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/tsever-bokhir-usny-shugamyn-kholbokh-tseg-uurchlukh-zuvshuurul-olgokh",
     group : "Ус сувгийн удирдах газар",
 },{
     name: "Цэвэр, бохир усны шугам зөөх зөвшөөрөл олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/tsever-bokhir-usny-shugamyg-zuukh-zuvshuurul-olgokh",
     group : "Ус сувгийн удирдах газар",
 },{
     name: "Хөгжлийн бэрхшээлтэй хүний үнэмлэх авах хүсэлт",
-    link:"",
+    link:"https://e-mongolia.mn/service/khugjliin-berkhsheeltei-khunii-unemlekh-avakh-khuselt",
     group : "Хөгжлийн бэрхшээлтэй хүний хөгжлийн газар",
 },{
     name: "Хөгжлийн бэрхшээлтэй хүний үнэмлэх сунгах хүсэлт",
-    link:"",
+    link:"https://e-mongolia.mn/service/khugjliin-berkhsheeltei-khunii-unemlekh-sungakh-khuselt",
     group : "Хөгжлийн бэрхшээлтэй хүний хөгжлийн газар",
 },{
     name: "Барилга, байгууламжийг хот байгуулалтын мэдээллийн санд бүртгэх, хаяг дугаар олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/barilga-baiguulamjiig-khot-baiguulaltyn-medeelliin-sand-burtgekh-khayag-dugaar-olgokh",
     group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
 },{
     name: "Тэг тэнхлэгийн акт болон тоон мэдээллийг хот байгуулалтын мэдээллийн санд бүртгүүлэх",
@@ -1909,39 +1909,39 @@ export const manyStepService = [
     group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
 },{
     name: "Инженерийн шугам сүлжээний зурган мэдээллээр үйлчлэх",
-    link:"",
+    link:"https://e-mongolia.mn/service/injyenyeriin-shugam-suljeenii-ajil-shineer-khiikh-zuukh-shiljuulekh-ajlyn-khureend-avto-zam-setlekh-suvlekh-zuvshuurliin-khuselt-khuleen-avakh",
     group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
 },{
     name: "Хот байгуулалт хөгжлийн газрын Архивын лавлагаа авах үйлчилгээ",
-    link:"",
-    group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
-},{
-    name: "Барилгын ажил эхлүүлэх, үргэлжлүүлэх зөвшөөрөл шинээр авах",
-    link:"",
+    link:"https://e-mongolia.mn/service/khot-baiguulalt-khugjliin-gazryn-arkhivyn-lavlagaa-avakh-uilchilgee",
     group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
 },{
     name: "Барилгын ажил эхлүүлэх, үргэлжлүүлэх зөвшөөрөл сунгуулах",
-    link:"",
+    link:"https://e-mongolia.mn/service/khot-baiguulalt-khugjliin-gazryn-arkhivyn-lavlagaa-avakh-uilchilgee",
+    group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
+},{
+    name: "Барилгын ажил эхлүүлэх, үргэлжлүүлэх зөвшөөрөл сунгуулах",
+    link:"https://e-mongolia.mn/service/barilgyn-ajlyg-ekhluulekh-urgeljluulekh-zuvshuurul-sunguulakh",
     group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
 },{
     name: "Барилгын ажил эхлүүлэх, үргэлжлүүлэх зөвшөөрөлд нэмэлт өөрчлөлт оруулах",
-    link:"",
+    link:"https://e-mongolia.mn/service/barilgyn-ajlyg-ekhluulekh-urgeljluulekh-zuvshuuruld-nemelt-uurchlult-oruulakh",
     group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
 },{
     name: "Барилга, байгууламжийн загвар зураг батлах",
-    link:"",
+    link:"https://e-mongolia.mn/service/barilga-baiguulamjiin-zagvar-zurag-batlakh",
     group : "Нийслэлийн хот байгуулалт, хөгжлийн газар",
 },{
     name: "Гадаад харилцааны яаманд өргөдөл, гомдол илгээх",
-    link:"",
+    link:"https://e-mongolia.mn/service/gadaad-khariltsaany-yaamand-urgudul-gomdol-gargakh",
     group : "Гадаад харилцааны яам",
 },{
     name: "Хилийн чанадад буй иргэдийн бүртгэл",
-    link:"",
+    link:"https://e-mongolia.mn/service/khiliin-chanadad-bui-irgediin-burtgel",
     group : "Гадаад харилцааны яам",
 },{
     name: "Апостиль гэрчилгээ олгох",
-    link:"",
+    link:"https://e-mongolia.mn/service/apostili-gerchilgee-avakh-khuselt",
     group : "Гадаад харилцааны яам",
 },
 
@@ -1952,11 +1952,11 @@ export const manyStepService = [
 
 {
     name: "Галын аюулгүй байдлын дүгнэлт",
-    link:"",
+    link:"https://e-mongolia.mn/service/galyn-ayuulgui-baidlyn-dugnelt",
     group : "Нийслэлийн онцгой байдлын газар",
 },{
     name: "Дугаарын хязгаарлалтаас чөлөөлөх хүсэлт",
-    link:"",
+    link:"https://e-mongolia.mn/service/dugaaryn-khyazgaarlaltaas-chuluulukh-khuselt",
     group : "Нийслэлийн нийтийн тээврийн газар",
 },{
     name: "Ажилчдын автобусны зөвшөөрөл олгох",
@@ -1980,19 +1980,19 @@ export const manyStepService = [
     group : "Нийслэлийн нийтийн тээврийн газар",
 },{
     name: "Дайнд оролцсон ахмад дайчдын лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/batlan-khamgaalakhyn-tuv-arkhiv---daind-oroltsson-akhmad-daichdyn-lavlagaa",
     group : "Батлан хамгаалах яам",
 },{
     name: "Хугацаат цэргийн алба хаасан лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/batlan-khamgaalakhyn-tuv-arkhiv---khugatsaat-tsergiin-alba-khaasan-lavlagaa",
     group : "Батлан хамгаалах яам",
 },{
     name: "Ажилласан жилийн лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/batlan-khamgaalakhyn-tuv-arkhiv---ajillasan-jiliin-lavlagaa",
     group : "Батлан хамгаалах яам",
 },{
     name: "Цалингийн тодорхойлолт",
-    link:"",
+    link:"https://e-mongolia.mn/service/batlan-khamgaalakhyn-tuv-arkhiv---tsalingiin-todorkhoilolt-",
     group : "Батлан хамгаалах яам",
 },{
     name: "Тушаалын хуулбар болон бусад",
@@ -2004,7 +2004,7 @@ export const manyStepService = [
     group : "Батлан хамгаалах яам",
 },{
     name: "Цэргийн бүртгэл",
-    link:"",
+    link:"https://e-mongolia.mn/service/tsergiin-burtgel",
     group : "Батлан хамгаалах яам",
 },{
     name: "Биологийн идэвхт бүтээгдэхүүний бүртгэл, сунгалт, өөрчлөлтийн үйл ажиллагаа",
@@ -2086,37 +2086,37 @@ export const manyStepService = [
     group : "Замын-Үүдийн чөлөөт бүс",
 },{
     name: "Чөлөөт бүсэд согтууруулах ундаа худалдах, түүгээр үйлчлэх тусгай зөвшөөрөл (Замын-Үүд Чөлөөт бүс)",
-    link:"",
+    link:"https://e-mongolia.mn/service/(-bayankhongor-aimag)-sogtuuruulakh-undaa-khudaldakh-tuugeer-uilchilekh-tusgai-zuvshuurliin-uilchilgee",
     group : "Замын-Үүдийн чөлөөт бүс",
 },{
     name: "Усны ашиглах боломжит нөөцийн дүгнэлт гаргах",
-    link:"",
+    link:"https://e-mongolia.mn/service/usny-ashiglakh-bolomjit-nuutsiin-dugnelt-gargakh",
     group : "Усны газар",
 },{
     name: "Усны барилга, байгууламжийн зураг төсөлд дүгнэлт өгөх",
-    link:"",
+    link:"https://e-mongolia.mn/service/usny-barilga-baiguulamjiin-zurag-tusuld-dugnelt-ugukh",
     group : "Усны газар",
 },{
     name: "Хаягдал усны дүгнэлт гаргах",
-    link:"",
+    link:"https://e-mongolia.mn/service/(bayankhongor-aimag)-khayagdal-usny-dugnelt-gargakh",
     group : "Усны газар",
 },
 {
     name: "Эрүүгийн хэрэгт холбогдсон төлбөрийн чадваргүй иргэн өмгөөллийн үйлчилгээ авах хүсэлт гаргах",
-    link:"",
+    link:"https://e-mongolia.mn/service/eruugiin-kheregt-kholbogdson-tulburiin-chadvargui-irgen-umguulliin-uilchilgee-avakh-khuselt-gargakh",
     group : "Хууль зүйн туслалцааны төв",
 },
 {
     name: "НАХЯ-ны харьяа байгууллагуудад ажилласан жилийн талаарх архивын лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/nakhya-ny-khariyaa-baiguullaguudad-ajillasan-jiliin--talaarkh-arkhivyn-lavlagaa-",
     group : "Тагнуулын ерөнхий газар",
 },{
     name: "НАХЯ-ны хилийн ба дотоодын цэрэгт цэргийн алба хаасан тухай архивын лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/nakhya-ny-khiliin-ba-dotoodyn-tseregt-tsergiin-alba-khaasan--tukhai-arkhivyn-lavlagaa",
     group : "Тагнуулын ерөнхий газар",
 },{
     name: "Улс төрийн хилс хэрэгт хэлмэгдэн шийтгэгдсэн хүмүүсийн талаарх цагаатгалын лавлагаа",
-    link:"",
+    link:"https://e-mongolia.mn/service/uls-turiin-khils-kheregt-khelmegden-shiitgegdsen-khumuusiin--talaarkh-tsagaatgalyn-lavlagaa",
     group : "Тагнуулын ерөнхий газар",
 },
 ]

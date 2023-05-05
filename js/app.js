@@ -7,50 +7,13 @@ const state = {};
 const elements={
     serviceList : document.querySelector('.serviceList'),
     leftNavList : document.querySelector('.leftNavList'),
-    leftNavMenu : document.querySelectorAll('.leftNavMenu')
+    header : document.querySelectorAll('.this-is-heade')
 };
 
 
 //render 
 /*
 
-const html = `
-    <li class="shopping__item" data-itemid=${item.id}>
-        <p class="shopping__description">${item.item}</p>
-        <button class="shopping__delete btn-tiny">
-            <svg>
-                <use href="img/icons.svg#icon-circle-with-cross"></use>
-            </svg>
-        </button>
-    </li>
-    `;
- elements.shoppingList.insertAdjacentHTML("beforeend", html);
-z*/
-
-
-// zuun taliin link listuudiig gargah
-// select
-// click event
-
-// elements.shoppingList.addEventListener("click", e => {
-//     // Клик хийсэн li элементийн data-itemid аттрибутыг шүүж гаргаж авах
-//     const id = e.target.closest(".shopping__item").dataset.itemid;
-  
-//     // Олдсон ID-тэй орцыг моделоос устгана.
-//     state.list.deleteItem(id);
-        // state.service.search(id);
-  
-//     // Дэлгэцээс ийм ID-тэй орцыг олж бас устгана.
-//     listView.deleteItem(id);
-//   });
-
-
-// state.services = new Model(data);
-// console.log(data);
-
-// // state.services.print();
-// console.log(
-//     state.services.search("Улсын бүртгэлийн ерөнхий газар"));
 
 /**
  * Үйлчилгээ контролллер
@@ -95,10 +58,12 @@ const renderServices=(services)=>{
     const html = `${services.map(service=>renderOneService(service)).join("")}`
     // // services massive
 
-    elements.serviceList.insertAdjacentHTML('afterbegin',html);
+    elements.serviceList.insertAdjacentHTML('beforeend',html);
 }
 const renderOneService = (service)=>` <div class="list-item-container">
+
 <div class="item-content">
+<a href="${service.link ? service.link : "https://e-mongolia.mn/services/citizen/sector/all"}" target="_blank" >
   <div>
     <div class="item-title">${service.name}</div>
 
@@ -107,7 +72,9 @@ const renderOneService = (service)=>` <div class="list-item-container">
       <span class="">Онлайн үйлчилгээ</span></span
     >
   </div>
+  </a>
 </div>
+
 </div>`;
 const renderLeftMenus=(leftMenus)=>{
     const html = `${leftMenus.map(menu=> renderOneMenu(menu)).join("")}`;
@@ -123,10 +90,11 @@ const connectClickEvent = ()=>{
     Array.from(document.querySelectorAll('.leftNavMenu')).forEach(
         el=> el.addEventListener('click', e => {
             // Клик хийсэн li элементийн data-catname аттрибутыг шүүж гаргаж авах
-            const id =  e.target.closest(".leftNavMenu").dataset.catname
-            console.log(id);
+            const id =  e.target.closest(".leftNavMenu").dataset.catname;
             // Олдсон категорид хамаарах үйлчилгээг шүүж гаргах.
             clearServiceList();
+            elements.serviceList.insertAdjacentHTML('afterbegin',`<p class='font-weight-bold text-uppercase mt-4 mb-4'>${e.target.innerText}</p>`)
+
             state.data.items =  state.data.search(id);
             console.log(state.data.items);
             renderServices(state.data.items)
