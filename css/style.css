@@ -2068,7 +2068,6 @@ text-align: center;
 }
 .latest-news-slider{
   display:flex;
-  border: green 1px solid;
   align-items: center;
   justify-content: center;
 
@@ -2077,7 +2076,6 @@ text-align: center;
 .slider__item .single-blog{
   width: auto;
 height:400px;
-  border: red 1px solid;
 }
 
 .image-box .overlay .date {
